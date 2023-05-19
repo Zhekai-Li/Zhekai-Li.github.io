@@ -11,7 +11,7 @@ title: Awards
 - Sep 2022: Best Student Academic Project ($120)
 - Sep 2022：First Prize Scholarship of FZU ($2100)
 - March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
+- Sep 2021：Third Prize Scholarship of FZU ($70000000)
 - March 2021：First Prize Scholarship of FZU ($2100)
 
 ## Competitions
