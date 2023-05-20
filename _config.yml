@@ -15,7 +15,7 @@ owner:
   github: Zhekai-Li
   linkedin: zhekai-li-bb44a6277
   scholar: https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=tG4hMdQAAAAJ
-  # instagram: orcid.org/0000-0001-9854-6420
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -74,13 +74,13 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: zhekaili
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
+# Latest update in 2023/05/20 by Zhekai Li.
+# URL: https://zhekai-li.github.io
 
 port: 7599
