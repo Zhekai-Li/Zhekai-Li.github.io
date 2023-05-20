@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# About Me11
+# About Me
 
-<img src="https://lizhekai.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://lizhekai.com/caihanlin.jpg" class="floatpic" width="540" height="720">
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
