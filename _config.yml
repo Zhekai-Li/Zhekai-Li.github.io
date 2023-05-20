@@ -1,22 +1,21 @@
-title: Zhekai CCCC
+title: Zhekai Li
 # tagline: 
 description: 
 #Comment out url when working locally to resolve base urls correctly
-url: https://baidu.com
+url: https://zhekai-li.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Zhekai Li
+  avatar: lizhekai_1.jpg
 #  bio:
-  email: hanlin.cai@ieee.org
+  email: zhekai_li@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlin-cai-07b53b23b
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # instagram: lancecai2002
+  # Twitter:
+  github: Zhekai-Li
+  linkedin: zhekai-li-bb44a6277
+  scholar: https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=tG4hMdQAAAAJ
+  # instagram: orcid.org/0000-0001-9854-6420
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -42,11 +41,11 @@ links:
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  - title: Journey
+    url: /journey/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-# timezone: China/Beijing
+timezone: Asia/Shanghai
 future: true
 highlighter: rouge
 # markdown: kramdown
