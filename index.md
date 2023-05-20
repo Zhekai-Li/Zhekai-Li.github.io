@@ -20,7 +20,7 @@ Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI.pdf) and [my CV](
 
 - **Huazhong University of Science and Technology**, *School of Electrical and Electronic Engineering*
 <div align = right> September, 2018&nbsp;~&nbsp;June, 2022</div>
-
+····
 
 ## <font face="Verdana">Research&nbsp;Interests</font><br/> 
 
