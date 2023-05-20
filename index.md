@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://lizhekai.com/caihanlin.jpg" class="floatpic" width="540" height="720">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Zhekai Li (李哲锴)**.
 
-I am a junior majoring in **Automation** at Fuzhou University (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a graduate majoring in **Electrical Engineering(EE)** at Shanghai Jiao Tong University (China). I am extremely fortunate to be advised by [Xu Cai](https://eei.sjtu.edu.cn/faculty-detail.php?id=107) and [Renxin Yang](https://eei.sjtu.edu.cn/faculty-detail.php?id=185). Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI.pdf) and [my CV](https://lizhekai.com/file/CV_ZhekaiLI.pdf).
 
 ## Research Interests
 
