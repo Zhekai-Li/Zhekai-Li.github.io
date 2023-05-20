@@ -2,17 +2,30 @@
 layout: page
 ---
 
-# About Me
+# <font face="Verdana">About Me</font><br/>&nbsp;
 
 <img src="https://lizhekai.com/caihanlin.jpg" class="floatpic" width="540" height="720">
 
 Here is **Zhekai Li (李哲锴)**.
 
-I am a graduate majoring in **Electrical Engineering(EE)** at Shanghai Jiao Tong University (China). I am extremely fortunate to be advised by [Xu Cai](https://eei.sjtu.edu.cn/faculty-detail.php?id=107) and [Renxin Yang](https://eei.sjtu.edu.cn/faculty-detail.php?id=185). Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI.pdf) and [my CV](https://lizhekai.com/file/CV_ZhekaiLI.pdf).
+I am a graduate majoring in **Electrical Engineering(EE)** at Shanghai Jiao Tong University (China). I am extremely fortunate to be advised by [Xu Cai](https://eei.sjtu.edu.cn/faculty-detail.php?id=107) and [Renxin Yang](https://eei.sjtu.edu.cn/faculty-detail.php?id=185) from Department of Electrical Engineering, Shanghai Jiao Tong University. Besides, I also got the rare oppertunity to be mentored by xxx, researching the xxx.
 
-## Research Interests
+Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI.pdf) and [my CV](https://lizhekai.com/file/CV_ZhekaiLI.pdf).
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+## <font face="Verdana">Education</font><br/> 
+
+
+- **Shanghai Jiao Tong University**, *School of Electronic Information and Electrical Engineering*
+<div align = right> September, 2022&nbsp;~&nbsp;January, 2025</div>
+
+- **Huazhong University of Science and Technology**, *School of Electrical and Electronic Engineering*
+<div align = right> September, 2018&nbsp;~&nbsp;June, 2022</div>
+
+
+## <font face="Verdana">Research&nbsp;Interests</font><br/> 
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ## News and Updates
 
