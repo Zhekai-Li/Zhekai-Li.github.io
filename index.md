@@ -3,13 +3,16 @@ layout: page
 ---
 ------------------------------------------------------------
 
+# <font face="Verdana">About Me</font><br/>&nbsp;
+
 <!--Link：https://www.jianshu.com/p/82182f3587e1-->
 
-<body><img src="https://lizhekai.com/caihanlin.jpg" width = "280" height = "200" alt="Picture description" align=right style='BORDER-RIGHT:#ADADAD 2px solid;
+<body><img src="https://lizhekai.com/caihanlin.jpg" width = "280" height = "200" alt="Picture description" align=right /></body>
+
+<!--style='BORDER-RIGHT:#ADADAD 2px solid;
 BORDER-TOP:#ADADAD 2px solid;
 BORDER-LEFT:#ADADAD 2px solid;
-BORDER-BOTTOM:#ADADAD 2px solid;'/>&nbsp;</body>
-
+BORDER-BOTTOM:#ADADAD 2px solid;'-->
 
 <style>
 html,body {
@@ -32,12 +35,7 @@ body {
 
 </style>
 
-
-# <font face="Verdana">About Me</font><br/>&nbsp;
-
 >Here is **Zhekai Li <font face="NSimSun">李哲锴</font>  .<br/>** 
-
-
 
 &emsp;&nbsp;&nbsp;I am a graduate majoring in **Electrical Engineering(EE)** at Shanghai Jiao Tong University (China). I am extremely fortunate to be advised by [Xu Cai](https://eei.sjtu.edu.cn/faculty-detail.php?id=107) and [Renxin Yang](https://eei.sjtu.edu.cn/faculty-detail.php?id=185) from Department of Electrical Engineering, Shanghai Jiao Tong University.
 <!--Besides, I also got the rare oppertunity to be mentored by xxx, researching the xxx.-->
