@@ -58,7 +58,7 @@ Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI.pdf) and [my CV](
 ## <font face="Verdana">Research Interests</font><br/> 
 
  &emsp;&nbsp;&nbsp;My current research focuses on the topology, control, converter modeling, and stability analysis of MMC-based HVDC system with wind farm integration. I am presently working on the **Grid Forming Converter** and its applications in **VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration**. 
- The access of **Renewable energy** is unstoppable and will bring revolutionary changes to the development pattern of the whole world electric industry, influencing everyone's life.  I wish to devote my talent to this meaningful cause and bring well-being to the society.<br/>&nbsp;
+ The integrationbu of **Renewable energy** has received extensive attention under the global trend of environmental protection as well as low carbonization, bringing revolutionary changes to the development pattern of the whole world electric industry and influencing everyone's life.  I wish to devote my talent to this meaningful cause and bring well-being to the society.<br/>&nbsp;
 
 ## <font color='#8B0000'><font face="Verdana">News and Updates</font><br/> 
 
@@ -72,7 +72,7 @@ Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI.pdf) and [my CV](
 
 ------------------------------------------------------------------
 
-- **May 2023：**My conference paper [***Research on Virtual Admittance Control Strategy***](https://lizhekai.com/mypaper/PEDG23_ResearchonVirtualAdmittanceControlStrategy.pdf) is accepted to PEDG 2023, see you in Shanghai!
+- **May 2023：**Our conference paper [***Research on Virtual Admittance Control Strategy***](https://lizhekai.com/mypaper/PEDG23_ResearchonVirtualAdmittanceControlStrategy.pdf) is accepted to PEDG 2023, see you in Shanghai!
 
 - **Oct. 2021：**Honored to be awarded the [**National Scholarship (2020 ~ 2021)** again](https://mp.weixin.qq.com/s/QbRVy8weyYX8UtGLIQvx0w)!
 

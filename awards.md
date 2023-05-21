@@ -26,7 +26,9 @@ body {
 }
 </style>
 
-## Scholarships
+# <font face="Verdana"> Awards </font><br/>&nbsp;
+
+## <font face="Verdana">Scholarships</font><br/>&nbsp;
 
 - May 2023：**XiamenAir Scholarship** (about $1500)
 - March 2023：Second Prize Scholarship of FZU (about $1400)
@@ -36,7 +38,9 @@ body {
 - Sep 2021：Third Prize Scholarship of FZU ($70000000)
 - March 2021：First Prize Scholarship of FZU ($2100)
 
-## Competitions
+<br/>&nbsp;
+
+## <font face="Verdana">Competitions</font><br/>&nbsp;
 
 - May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
 - May 2023：Third Prize in Milan Design Week China Design Exhibition (powered by my girlfriend)
@@ -48,7 +52,9 @@ body {
 - June 2022：Third Prize in the 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
 - May 2022：Third Prize (Short Videos Group) in China National College Student New Media Competition
 
-## Honors
+<br/>&nbsp;
+
+## <font face="Verdana">Honors</font><br/>&nbsp;
 
 - May 2023：Outstanding Student Leaders of Fuzhou University
 - Sep 2022：Nomination for China National Scholarship (Top 1%)
@@ -57,10 +63,12 @@ body {
 - May 2021：Merit Student of Fuzhou University
 - April 2021：Outstanding volunteer at 4th Digital China Summit
 
-## Services
+<br/>&nbsp;
+
+## <font face="Verdana">Services</font><br/>&nbsp;
 
 - Sep 2022 - Sep 2023：IEEE Student Membership
 - Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee, Fuzhou University
 - Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College, Fuzhou University
 
-Lastest Update: 10th May 2023 &nbsp; [中文版 (Chinese Version)](https://caihanlin.com/awards-zh/)
+<br/>&nbsp;

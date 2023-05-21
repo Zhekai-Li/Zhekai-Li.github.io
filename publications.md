@@ -45,6 +45,7 @@ Distributed Generation Systems (PEDG). Participateing in June, 2023 and the pape
 - Sun, X., Liu, Z., **<u>Li, Z.</u>**, Sun, Q., Li, A., & Jiang, D. (2021). [***Three-phase Motor Drive Topology with the
 Fault-tolerant Capability of Open-circuit on the Multiplexing Bridge***](https://lizhekai.com/mypaper/ECCE21_Three-phaseMotorDriveTopologywiththeFault-tolerantCapability.pdf). 2021 IEEE Energy Conversion
 Congress and Exposition (ECCE), 5043–5047.
+<br/>&nbsp;
 
 
 ## <font face="Verdana">Competition Paper</font><br/>
@@ -55,4 +56,6 @@ Congress and Exposition (ECCE), 5043–5047.
 - **<u>Zhekai Li</u>**,  Junzhao Zhang, Haotian Ren. (2021) [***Firewalls Built by Drones***](https://lizhekai.com/file/2115664_QuestionB_MCMICM.pdf). Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>
 > **Honorable Mention**
 
-## Working Paper
+<br/>
+
+## <font face="Verdana">Working Paper</font><br/>

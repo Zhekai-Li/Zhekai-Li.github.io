@@ -26,34 +26,30 @@ body {
 }
 </style>
 
-## Journey
+# <font face="Verdana">Journey</font><br/>&nbsp;
 
-### 2023
+### <font face="Verdana">2023</font><br/>&nbsp;
 
-- [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
+<br/>&nbsp;
 
-### 2022
+### <font face="Verdana">2022</font><br/>&nbsp;
 
-- [20岁，宽心且看月中桂](https://caihanlin.com/blogs/20yrs)<br>
-- [Cambridge 线上暑研回忆录](https://caihanlin.com/blogs/cambridge/)
-- [暂停、暂停、暂停](https://caihanlin.com/blogs/stop/)
+<br/>&nbsp;
 
-### 2021
+### <font face="Verdana">2021</font><br/>&nbsp;
 
-- [19岁，山高路亦远](https://caihanlin.com/blogs/19yrs)<br>
-- 星野学社实习回忆录
+<br/>&nbsp;
 
-### 2020
+### <font face="Verdana">2020</font><br/>&nbsp;
 
-- [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
+<br/>&nbsp;
 
-<br>
-
-## Leave a Message
+### *<font face="Verdana">Leave a Message</font>*<br/>&nbsp;
 
 <br>
 
 {% include disqus.html %} 
 
 <br>
+
+<br/>&nbsp;
