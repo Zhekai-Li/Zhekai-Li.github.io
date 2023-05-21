@@ -4,15 +4,25 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Publications
+------------------------------------------------------------
 
-Lastest Update: 9th May 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/publications-zh/)
+# <font face="Verdana">Publications</font><br/>&nbsp;
 
-## Conference Paper
+> Lastest Update: 21th May, 2023&nbsp;&nbsp;&nbsp;[[Chinese Version]](https://lizhekai.com/publications-zh/)
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+## <font face="Verdana">Journal Paper</font><br/>
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
+ On the way &#128548;
+
+## <font face="Verdana">Conference Paper</font><br/>
+
+- **<u>Li, Z.</u>**, Liang, L., Yang, R., Cai, X. (2023). [***The Virtual Admittance Control of Sending End Converter for
+Offshore Wind Farm Integration***](https://lizhekai.com/mypaper/PEDG23_ResearchonVirtualAdmittanceControlStrategy.pdf). 2023 IEEE 14th International Symposium on Power Electronics for
+Distributed Generation Systems (PEDG). Participateing in June, 2023 and the paper will be included later.
+
+- Sun, X., Liu, Z., **<u>Li, Z.</u>**, Sun, Q., Li, A., & Jiang, D. (2021). [***Three-phase Motor Drive Topology with the
+Fault-tolerant Capability of Open-circuit on the Multiplexing Bridge***](https://lizhekai.com/mypaper/ECCE21_Three-phaseMotorDriveTopologywiththeFault-tolerantCapability.pdf). 2021 IEEE Energy Conversion
+Congress and Exposition (ECCE), 5043–5047.
 
 ## Competition Paper
 
