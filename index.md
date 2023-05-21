@@ -7,7 +7,7 @@ layout: page
 
 <!--Link：https://www.jianshu.com/p/82182f3587e1-->
 
-<body><img src="https://lizhekai.com/caihanlin.jpg" width = "280" height = "200" alt="Picture description" align=right /></body>
+<body><img src="https://lizhekai.com/caihanlin.jpg" width = "240" height = "200" alt="Picture description" align=right /></body>
 
 <!--style='BORDER-RIGHT:#ADADAD 2px solid;
 BORDER-TOP:#ADADAD 2px solid;
@@ -25,20 +25,23 @@ html,body {
 body {
     min-width: 1024px;
     min-height: 600px;
-    user-select: none; /* 禁止鼠标拖动页面时选中页面文字 */
+    user-select: none; /* Don't select the text while dragging the page with the mouse */
 }
 
 #main {
     width: 100%;
     height: 100%;
 }
-
 </style>
 
->Here is **Zhekai Li <font face="NSimSun">李哲锴</font>  .<br/>** 
+> Here is **Zhekai Li <font face="NSimSun">李哲锴</font>  .<br/>**
 
-&emsp;&nbsp;&nbsp;I am a graduate majoring in **Electrical Engineering(EE)** at Shanghai Jiao Tong University (China). I am extremely fortunate to be advised by [Xu Cai](https://eei.sjtu.edu.cn/faculty-detail.php?id=107) and [Renxin Yang](https://eei.sjtu.edu.cn/faculty-detail.php?id=185) from Department of Electrical Engineering, Shanghai Jiao Tong University.
+------
+<!--<br/>&nbsp;-->
+&emsp;&nbsp;&nbsp;I am a graduate majoring in **Electrical Engineering (EE)** at Shanghai Jiao Tong University (China). I am extremely fortunate to be advised by [Xu Cai](https://eei.sjtu.edu.cn/faculty-detail.php?id=107) and [Renxin Yang](https://eei.sjtu.edu.cn/faculty-detail.php?id=185) from Department of Electrical Engineering, Shanghai Jiao Tong University.
+
 <!--Besides, I also got the rare oppertunity to be mentored by xxx, researching the xxx.-->
+
 Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI.pdf) and [my CV](https://lizhekai.com/file/CV_ZhekaiLI.pdf).<br/>&nbsp;
 
 ## <font face="Verdana">Education</font><br/>
@@ -59,10 +62,15 @@ Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI.pdf) and [my CV](
 
 ## <font color='#8B0000'><font face="Verdana">News and Updates</font><br/> 
 
-- **<font color='#8B0000'>[News]</font> I am looking for a Research Assistant Position in Operation Research (OR)/Industrial Engineering (IE)/Operation Management (OM) !**
-<div align = right>Remote from July, 2023 and offline from July, 2024</div>
+- **<font color='#8B0000'>[News]</font> I am looking for a Research Assistant Position in Electrical Engineering (EE) related to the Grid Forming Converter and its applications in VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration!**
+<div align = right>&#127796;&nbsp;Remote from July, 2023 and offline from July, 2024</div>
 
----------------------------------------------------------------------
+<div style='display: none'>
+- **<font color='#8B0000'>[News]</font> I am looking for a Research Assistant Position in Operation Research (OR)/Industrial Engineering (IE)/Operation Management (OM) !**
+<div align = right>&#127796;&nbsp;Remote from July, 2023 and offline from July, 2024</div>
+</div>
+
+------------------------------------------------------------------
 
 - **May 2023：**My conference paper [***Research on Virtual Admittance Control Strategy***](https://lizhekai.com/mypaper/PEDG23_ResearchonVirtualAdmittanceControlStrategy.pdf) is accepted to PEDG 2023, see you in Shanghai!
 

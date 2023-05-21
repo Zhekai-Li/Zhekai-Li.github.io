@@ -6,13 +6,35 @@ title: Publications
 
 ------------------------------------------------------------
 
+<style>
+html,body {
+     width: 100%;
+     height: 100%;
+     margin: 0;
+     padding: 0;
+}
+
+body {
+    min-width: 1024px;
+    min-height: 600px;
+    user-select: none; /* Don't select the text while dragging the page with the mouse */
+}
+
+#main {
+    width: 100%;
+    height: 100%;
+}
+</style>
+
 # <font face="Verdana">Publications</font><br/>&nbsp;
 
-> Lastest Update: 21th May, 2023&nbsp;&nbsp;&nbsp;[[Chinese Version]](https://lizhekai.com/publications-zh/)
+<!-- > Lastest Update: 21th May, 2023&nbsp;&nbsp;&nbsp;[[Chinese Version]](https://lizhekai.com/publications-zh/) -->
 
-## <font face="Verdana">Journal Paper</font><br/>
+> <big>Lastest Update: 21th May, 2023</big>
 
- On the way &#128548;
+## <font face="Verdana">Journal Paper</font><br/>&nbsp;
+
+## <small><center>On the way &#128548;</center><br/></small>
 
 ## <font face="Verdana">Conference Paper</font><br/>
 
@@ -24,10 +46,13 @@ Distributed Generation Systems (PEDG). Participateing in June, 2023 and the pape
 Fault-tolerant Capability of Open-circuit on the Multiplexing Bridge***](https://lizhekai.com/mypaper/ECCE21_Three-phaseMotorDriveTopologywiththeFault-tolerantCapability.pdf). 2021 IEEE Energy Conversion
 Congress and Exposition (ECCE), 5043–5047.
 
-## Competition Paper
 
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>**Finalist Award** (Top 1% of all 20858 paper)
+## <font face="Verdana">Competition Paper</font><br/>
+
+- **<u>Zhekai Li</u>**,  Yuanhao Mo, Mincheng Lu. (2021) [***Operation Data Analysis and Equivalent Modeling of High-Speed Railway Traction Power Supply System***](https://lizhekai.com/file/2401_QuestionA_CSEE_Modeling.pdf). National University Students Electrical Math Modeling Competition (13th)<br>
+> **First Prize** (Top 2.5% of all 5161 teams)
+
+- **<u>Zhekai Li</u>**,  Junzhao Zhang, Haotian Ren. (2021) [***Firewalls Built by Drones***](https://lizhekai.com/file/2115664_QuestionB_MCMICM.pdf). Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>
+> **Honorable Mention**
 
 ## Working Paper
-
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)

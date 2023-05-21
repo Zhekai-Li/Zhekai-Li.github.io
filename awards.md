@@ -4,6 +4,28 @@ permalink: /awards/index.html
 title: Awards
 ---
 
+--------------------------------------------------------------------
+
+<style>
+html,body {
+     width: 100%;
+     height: 100%;
+     margin: 0;
+     padding: 0;
+}
+
+body {
+    min-width: 1024px;
+    min-height: 600px;
+    user-select: none; /* Don't select the text while dragging the page with the mouse */
+}
+
+#main {
+    width: 100%;
+    height: 100%;
+}
+</style>
+
 ## Scholarships
 
 - May 2023：**XiamenAir Scholarship** (about $1500)

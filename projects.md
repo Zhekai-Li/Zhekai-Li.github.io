@@ -3,12 +3,33 @@ layout: page
 permalink: /projects/index.html
 title: Projects
 ---
+------------------------------------------------------------------
 
-# Research Projects
+<style>
+html,body {
+     width: 100%;
+     height: 100%;
+     margin: 0;
+     padding: 0;
+}
 
-P.S., click the hyperlink title to access the source.<br>
+body {
+    min-width: 1024px;
+    min-height: 600px;
+    user-select: none; /* Don't select the text while dragging the page with the mouse */
+}
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+#main {
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+# <font face="Verdana">Research Projects</font><br/>&nbsp;
+
+*<u>Reminder: click the hyperlink title to access the source.</u>*<br>
+
+> #### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
 
 <center>
 <img src="/images/resnet-ahp.png">
@@ -39,11 +60,10 @@ P.S., click the hyperlink title to access the source.<br>
 
 <br>
 
----
+------------------------------------------------------------------
 
-# Open-source Projects
+# <font face="Verdana">Open-Source Projects</font><br/>&nbsp;
 
-<br>
 
 #### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
 

@@ -1,6 +1,6 @@
 title: Zhekai Li
 # tagline: 
-description: 
+description: lizhekai / Zhekai Li / KK
 #Comment out url when working locally to resolve base urls correctly
 url: http://lizhekai.com/
 
@@ -74,7 +74,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: Li Zhekai
+  shortname: lizhekai
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
