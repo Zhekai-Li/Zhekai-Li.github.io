@@ -29,7 +29,7 @@ body {
 
 *<u>Reminder: click the hyperlink title to access the source.</u>*<br>
 
-> #### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+> #### [xxx]()
 
 <center>
 <img src="/images/resnet-ahp.png">
