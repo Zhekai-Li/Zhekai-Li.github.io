@@ -27,7 +27,7 @@ body {
 </style>
 
 # <font face="Verdana">Publications</font><br/>&nbsp;
-
+[[Chinese Version]](https://lizhekai.com/TEST/)
 <!-- > Lastest Update: 21th May, 2023&nbsp;&nbsp;&nbsp;[[Chinese Version]](https://lizhekai.com/publications-zh/) -->
 
 > <big>Lastest Update: 21th May, 2023</big>

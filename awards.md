@@ -28,47 +28,42 @@ body {
 
 # <font face="Verdana"> Awards </font><br/>&nbsp;
 
-## <font face="Verdana">Scholarships</font><br/>&nbsp;
+## <font face="Verdana">Scholarships</font><br/>
 
-- May 2023：**XiamenAir Scholarship** (about $1500)
-- March 2023：Second Prize Scholarship of FZU (about $1400)
-- Sep 2022: Best Student Academic Project ($120)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($70000000)
-- March 2021：First Prize Scholarship of FZU ($2100)
 
-<br/>&nbsp;
+- July 2021：**First Prize** Scholarship of HUST (Top 1%;&emsp;$1000)
+- July 2020：**First Prize** Scholarship of HUST (Top 1%;&emsp;$1000)
+- Nov. 2020：Academic Scholarship (Top 5%;&emsp;$180)
+- Apr. 2019：SiyuanElectric Social Scholarship (Top 5%;&emsp;$450)
+- Nov. 2019：Academic Scholarship (Top 5%;&emsp;$180)
 
-## <font face="Verdana">Competitions</font><br/>&nbsp;
+<br/>
 
-- May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- May 2023：Third Prize in Milan Design Week China Design Exhibition (powered by my girlfriend)
-- Dec 2022：**First Prize** (Fujian Competition Area) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
-- May 2022：Third Prize (Short Videos Group) in China National College Student New Media Competition
+## <font face="Verdana">Competitions</font><br/>
 
-<br/>&nbsp;
+- Apr. 2021：**First Prize** in "Challenge Cup" National Extracurricular Academic Science and Technology Works Competition for College Students (the most valueable science and entrepreneurship competition for college students in China)
+- Apr. 2021：**First Prize** in Electrical Cup Mathematical Modeling Competition
+- Feb. 2021：Second Prize in MCM/ICM
+- Oct. 2020：Third winner in Freshman Cup volleyball competition of HUST
+- Nov. 2019：Second Prize in National Mathematics Competition for College Students
+- Nov. 2019：Third Prize in National English Competition for College Students
+- Oct. 2019：Champion in Freshman Cup volleyball competition of HUST
 
-## <font face="Verdana">Honors</font><br/>&nbsp;
 
-- May 2023：Outstanding Student Leaders of Fuzhou University
-- Sep 2022：Nomination for China National Scholarship (Top 1%)
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of the year 2021-2022 at Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- May 2021：Merit Student of Fuzhou University
-- April 2021：Outstanding volunteer at 4th Digital China Summit
+<br/>
 
-<br/>&nbsp;
+## <font face="Verdana">Honors</font><br/>
 
-## <font face="Verdana">Services</font><br/>&nbsp;
+- Nov. 2021：**National Scholarship** (Top 0.2% highest scholarship from Ministry of Education of China; $1500)
+- Oct. 2019：Outstanding Undergraduates in Term of Academic Performance (Top 1%)
+- Nov. 2019：**National Scholarship** (Top 0.2%;&emsp;$1500)
+- Nov. 2019：Merit Student of HUST(Top 10%)
+- Dec. 2019：Outstanding Individual in Social Practice Activities (Top 5%)
 
-- Sep 2022 - Sep 2023：IEEE Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee, Fuzhou University
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College, Fuzhou University
+<br/>
 
-<br/>&nbsp;
+## <font face="Verdana">Services</font><br/>
+
+- Dec. 2019：Participated in the international evaluation volunteer activity of HUST
+
+<br/>
