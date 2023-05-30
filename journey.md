@@ -28,19 +28,23 @@ body {
 
 # <font face="Verdana">Journey</font><br/>&nbsp;
 
-### <font face="Verdana">2023</font><br/>&nbsp;
+## <small><center>In Editing &#128062;</center><br/></small>
+
+### <font face="Verdana">2022</font><br/>
+
+> #### [Four Years' Wonderful Journey in HUST]()
 
 <br/>&nbsp;
 
-### <font face="Verdana">2022</font><br/>&nbsp;
+### <font face="Verdana">2019</font><br/>
+
+> #### [Summer Social Practice - Head Northwest to the Gobi Desert]()
 
 <br/>&nbsp;
 
-### <font face="Verdana">2021</font><br/>&nbsp;
+### <font face="Verdana">2018</font><br/>
 
-<br/>&nbsp;
-
-### <font face="Verdana">2020</font><br/>&nbsp;
+> #### [Trip to Japan -  Akihabara, metro, and Shrine]()
 
 <br/>&nbsp;
 
