@@ -30,19 +30,19 @@ body {
 
 ## <small><center>In Editing &#128062;</center><br/></small>
 
-### <font face="Verdana">2022</font><br/>
+## <font face="Verdana">2022</font><br/>
 
 > #### [Four Years' Wonderful Journey in HUST]()
 
 <br/>&nbsp;
 
-### <font face="Verdana">2019</font><br/>
+## <font face="Verdana">2019</font><br/>
 
 > #### [Summer Social Practice - Head Northwest to the Gobi Desert]()
 
 <br/>&nbsp;
 
-### <font face="Verdana">2018</font><br/>
+## <font face="Verdana">2018</font><br/>
 
 > #### [Trip to Japan -  Akihabara, metro, and Shrine]()
 
