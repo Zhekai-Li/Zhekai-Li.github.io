@@ -51,7 +51,7 @@ Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI.pdf) and [my CV](
 <div align = right> Sept., 2022&nbsp;~&nbsp;Jan., 2025</div>
 
 - **Huazhong University of Science and Technology**, *School of Electrical and Electronic Engineering*
->**Bachelor’s degree;&nbsp;&nbsp;*GPA:  3.94 / 4.00***
+>**Bachelor's degree;&nbsp;&nbsp;*GPA:  3.94 / 4.00***
 <div align = right> Sept., 2018&nbsp;~&nbsp;June, 2022</div><br/>&nbsp;
 
 
