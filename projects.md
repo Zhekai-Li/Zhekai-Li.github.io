@@ -27,12 +27,79 @@ body {
 
 # <font face="Verdana">Research Projects</font><br/>&nbsp;
 
+## <small><center>In Editing &#128062;</center><br/></small>
+
 *<u>Reminder: click the hyperlink title to access the source.</u>*<br>
 
-> #### [xxx]()
+> ## [Delta Electronics Project]()
+> ### xxxxxxxxxxxxxxxx
+
 
 <center>
-<img src="/images/resnet-ahp.png">
+<!--<img src="/images/Projects/xxx.jpg">-->
+</center>
+<br>
+
+> ## [CATL]()
+> ### xxxxxxxxxxxxxxxx
+
+
+<center>
+<!--<img src="/images/Projects/xxx.jpg">-->
+</center>
+<br>
+
+> ## [China Electric Power Research Institute Project]()
+> ### xxxxxxxxxxxxxxxx
+
+
+<center>
+<!--<img src="/images/Projects/xxx.jpg">-->
+</center>
+<br>
+
+> ## ["Challenge Cup" Competition Project]()
+> ### xxxxxxxxxxxxxxxx
+
+
+<center>
+<!--<img src="/images/Projects/xxx.jpg">-->
+</center>
+<br>
+
+> ## ["Challenge Cup" Competition Project]()
+> ### xxxxxxxxxxxxxxxx
+
+
+<center>
+<!--<img src="/images/Projects/xxx.jpg">-->
+</center>
+<br>
+
+> ## [College Students' Innovative Entrepreneurial Training Project]()
+> ### xxxxxxxxxxxxxxxx
+
+
+<center>
+<!--<img src="/images/Projects/xxx.jpg">-->
+</center>
+<br>
+
+> ## [National University Students Electrical Math Modeling Competition]()
+> ### xxxxxxxxxxxxxxxx
+
+
+<center>
+<!--<img src="/images/Projects/xxx.jpg">-->
+</center>
+<br>
+
+> ## [MCM/ICM (2021)]()
+> ### xxxxxxxxxxxxxxxx
+
+
+<center>
+<!--<img src="/images/Projects/xxx.jpg">-->
 </center>
 <br>
 

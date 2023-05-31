@@ -32,19 +32,19 @@ body {
 
 ## <font face="Verdana">2022</font><br/>
 
-> #### [Four Years' Wonderful Journey in HUST]()
+> #### [Four Years' Wonderful Journey in HUST](https://lizhekai.com/JourneyHust)
 
 <br/>&nbsp;
 
 ## <font face="Verdana">2019</font><br/>
 
-> #### [Summer Social Practice - Head Northwest to the Gobi Desert]()
+> #### [Summer Social Practice - Head Northwest to the Gobi Desert](https://lizhekai.com/JourneySocialpractice)
 
 <br/>&nbsp;
 
 ## <font face="Verdana">2018</font><br/>
 
-> #### [Trip to Japan -  Akihabara, metro, and Shrine]()
+> #### [Trip to Japan -  Akihabara, metro, and Shrine](https://lizhekai.com/JourneyJapan)
 
 <br/>&nbsp;
 
