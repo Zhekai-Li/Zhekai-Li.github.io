@@ -31,8 +31,8 @@ body {
 ## <font face="Verdana">Scholarships</font><br/>
 
 
-- July 2021：**First Prize** Scholarship of HUST (Top 1%;&emsp;$1000)
-- July 2020：**First Prize** Scholarship of HUST (Top 1%;&emsp;$1000)
+- July 2021：**First Prize** Scholarship (Top 1%;&emsp;$1000)
+- July 2020：**First Prize** Scholarship (Top 1%;&emsp;$1000)
 - Nov. 2020：Academic Scholarship (Top 5%;&emsp;$180)
 - Apr. 2019：SiyuanElectric Social Scholarship (Top 5%;&emsp;$450)
 - Nov. 2019：Academic Scholarship (Top 5%;&emsp;$180)
@@ -41,7 +41,7 @@ body {
 
 ## <font face="Verdana">Competitions</font><br/>
 
-- Apr. 2021：**First Prize** in "Challenge Cup" National Extracurricular Academic Science and Technology Works Competition for College Students (the most valueable science and entrepreneurship competition for college students in China)
+- Apr. 2021：**First Prize** in "Challenge Cup" National Extracurricular Academic Science and Technology Works Competition for College Students (**the most valueable science and entrepreneurship competition for college students in China**)
 - Apr. 2021：**First Prize** in Electrical Cup Mathematical Modeling Competition
 - Feb. 2021：Second Prize in MCM/ICM
 - Oct. 2020：Third winner in Freshman Cup volleyball competition of HUST
