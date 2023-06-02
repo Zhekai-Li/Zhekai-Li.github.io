@@ -34,7 +34,8 @@ body {
 }
 </style>
 
-
+<!-- Practice for picture hovering-->
+<!--
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -44,8 +45,8 @@ body {
     <style>
         .nav a {
             display: inline-block;
-            width: 120px;
-            height: 58px;
+            width: 908px;
+            height: 1196px;
             background-color: #fff;
             text-align: center;
             line-height: 48px;
@@ -56,19 +57,18 @@ body {
             background: url(lizhekai.jpg)no-repeat;
         }
         .nav .bg1:hover{
-            background-image: url(lizhekai.jpg);
+            background-image: url(images/lizhekai_3.jpg);
         }
     </style>
 
 </head>
 <body>
     <div class="nav">
-        <a href="#" class="bg1">五彩导航</a>
+        <a href="#" class="bg1"></a>
     </div>
 </body>
 </html>
-
-
+-->
 
 > Here is **Zhekai Li <font face="NSimSun">李哲锴</font>  .<br/>**
 
