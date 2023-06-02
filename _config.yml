@@ -4,6 +4,10 @@ description: lizhekai / Zhekai Li / KK
 #Comment out url when working locally to resolve base urls correctly
 url: http://lizhekai.com/
 
+# url: "https://lizhekai.com/"
+
+# plugins: - jekyll-sitemap
+
 # Owner/author information
 owner:
   name: Zhekai Li
