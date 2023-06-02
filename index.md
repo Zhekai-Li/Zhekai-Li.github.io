@@ -25,7 +25,7 @@ html,body {
 body {
     min-width: 1024px;
     min-height: 600px;
-    user-select: none; /* Don't select the text while dragging the page with the mouse */
+    user-select: text; /* Don't select the text while dragging the page with the mouse */
 }
 
 #main {
