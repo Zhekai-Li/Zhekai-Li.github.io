@@ -34,6 +34,42 @@ body {
 }
 </style>
 
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .nav a {
+            display: inline-block;
+            width: 120px;
+            height: 58px;
+            background-color: #fff;
+            text-align: center;
+            line-height: 48px;
+            color: #fff;
+            text-decoration: none;
+        }
+        .nav .bg1 {
+            background: url(lizhekai.jpg)no-repeat;
+        }
+        .nav .bg1:hover{
+            background-image: url(lizhekai.jpg);
+        }
+    </style>
+
+</head>
+<body>
+    <div class="nav">
+        <a href="#" class="bg1">五彩导航</a>
+    </div>
+</body>
+</html>
+
+
+
 > Here is **Zhekai Li <font face="NSimSun">李哲锴</font>  .<br/>**
 
 ------
