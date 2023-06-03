@@ -5,6 +5,7 @@ title: Projects
 ---
 ------------------------------------------------------------------
 
+<!--
 <style>
 html,body {
      width: 100%;
@@ -24,6 +25,7 @@ body {
     height: 100%;
 }
 </style>
+-->
 
 # <font face="Verdana">Research Projects</font><br/>&nbsp;
 

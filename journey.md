@@ -6,6 +6,7 @@ title: Journey
 
 --------------------------------------------------------------------
 
+<!--
 <style>
 html,body {
      width: 100%;
@@ -25,6 +26,7 @@ body {
     height: 100%;
 }
 </style>
+-->
 
 # <font face="Verdana">Journey</font><br/>&nbsp;
 
