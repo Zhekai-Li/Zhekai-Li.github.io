@@ -7,7 +7,7 @@ layout: page
 
 <!--Link：https://www.jianshu.com/p/82182f3587e1-->
 
-<!--
+
 <body><img src="https://lizhekai.com/lizhekai.jpg" width = "240" height = "200" alt="Trip to Xia Men" align=right /></body>
 
 <!--style='BORDER-RIGHT:#ADADAD 2px solid;
