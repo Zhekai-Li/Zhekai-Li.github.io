@@ -33,8 +33,8 @@ body {
 
 *<u>Reminder: click the hyperlink title to access the source.</u>*<br>
 
-> ## [Delta Electronics Project]()
-> ### xxxxxxxxxxxxxxxx
+> ## [Delta Electronics Project - 2022]()
+> ### ------------------
 
 
 <center>
@@ -42,8 +42,8 @@ body {
 </center>
 <br>
 
-> ## [CATL]()
-> ### xxxxxxxxxxxxxxxx
+> ## [CATL - 2023]()
+> ### ------------------
 
 
 <center>
@@ -51,8 +51,8 @@ body {
 </center>
 <br>
 
-> ## [China Electric Power Research Institute Project]()
-> ### xxxxxxxxxxxxxxxx
+> ## [China Electric Power Research Institute Project - 2022]()
+> ### ------------------
 
 
 <center>
@@ -60,8 +60,8 @@ body {
 </center>
 <br>
 
-> ## ["Challenge Cup" Competition Project]()
-> ### xxxxxxxxxxxxxxxx
+> ## ["Challenge Cup" Competition Project - 2021]()
+> ### ------------------
 
 
 <center>
@@ -69,8 +69,8 @@ body {
 </center>
 <br>
 
-> ## ["Challenge Cup" Competition Project]()
-> ### xxxxxxxxxxxxxxxx
+> ## [National University Students Electrical Math Modeling Competition - 2021]()
+> ### ------------------
 
 
 <center>
@@ -78,8 +78,8 @@ body {
 </center>
 <br>
 
-> ## [College Students' Innovative Entrepreneurial Training Project]()
-> ### xxxxxxxxxxxxxxxx
+> ## [MCM/ICM - 2021]()
+> ### ------------------
 
 
 <center>
@@ -87,17 +87,8 @@ body {
 </center>
 <br>
 
-> ## [National University Students Electrical Math Modeling Competition]()
-> ### xxxxxxxxxxxxxxxx
-
-
-<center>
-<!--<img src="/images/Projects/xxx.jpg">-->
-</center>
-<br>
-
-> ## [MCM/ICM (2021)]()
-> ### xxxxxxxxxxxxxxxx
+> ## [Maker Conpetition - 2019]()
+> ### ------------------
 
 
 <center>
@@ -112,7 +103,7 @@ body {
 # <font face="Verdana">Open-Source Projects</font><br/>&nbsp;
 
 
-#### [XXX]()
+#### [------------------]()
 
 <br/>&nbsp;
 
