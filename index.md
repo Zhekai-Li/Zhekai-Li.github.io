@@ -94,7 +94,7 @@ Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI.pdf) and [my CV](
 <div align = right> Sept., 2018&nbsp;~&nbsp;June, 2022</div><br/>&nbsp;
 
 
-## <font face="Verdana">Research Interests</font><br/> 
+## <font face="Verdana">Research Field</font><br/> 
 
  &emsp;&nbsp;&nbsp;My current research focuses on the topology, control, converter modeling, and stability analysis of MMC-based HVDC system with wind farm integration. I am presently working on the **Grid Forming Converter** and its applications in **VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration**. 
  The integrationbu of **Renewable energy** has received extensive attention under the global trend of environmental protection as well as low carbonization, bringing revolutionary changes to the development pattern of the whole world electric industry and influencing everyone's life.  I wish to devote my talent to this meaningful cause and bring well-being to the society.<br/>&nbsp;
