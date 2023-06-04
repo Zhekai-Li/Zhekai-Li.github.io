@@ -42,7 +42,7 @@ body {
 
 ## <font face="Verdana">Competitions</font><br/>
 
-- Apr. 2021：**First Prize** in "Challenge Cup" National Extracurricular Academic Science and Technology Works Competition for College Students (**the most valueable science and entrepreneurship competition for college students in China**)
+- Apr. 2021：**First Prize** in "Challenge Cup" National Extracurricular Academic Science and Technology Works Competition for College Students (**the most valuable science and entrepreneurship competition for college students in China**)
 - Apr. 2021：**First Prize** in Electrical Cup Mathematical Modeling Competition
 - Feb. 2021：Second Prize in MCM/ICM
 - Oct. 2020：Third winner in Freshman Cup volleyball competition of HUST
