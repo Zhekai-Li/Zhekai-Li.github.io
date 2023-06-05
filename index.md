@@ -101,13 +101,15 @@ Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI.pdf) and [my CV](
 
 ## <font color='#8B0000'><font face="Verdana">News and Updates</font><br/> 
 
+<div style='display: none'>
 - **<font color='#8B0000'>[News]</font> I am looking for a Research Assistant Position in Electrical Engineering (EE) related to the Grid Forming Converter and its applications in VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration!**
 <div align = right>&#127796;&nbsp;Remote from July, 2023 and offline from July, 2024</div>
-
-<div style='display: none'>
-- **<font color='#8B0000'>[News]</font> I am looking for a Research Assistant Position in Operation Research (OR)/Industrial Engineering (IE)/Operation Management (OM) !**
-<div align = right>&#127796;&nbsp;Remote from July, 2023 and offline from July, 2024</div>
 </div>
+
+- **<font color='#8B0000'>[News]</font> I am looking for a Research Assistant Position in Operation Research (OR)/Industrial Engineering (IE)/Operation Management (OM). Please feel free to** <a href= "mailto:zhekai_li@outlook.com"> **<u>contact me</u>** </a> **at any time!**
+<div align = right>&#127796;&nbsp;Remote from July, 2023 and offline from July, 2024</div>
+
+
 
 ------------------------------------------------------------------
 

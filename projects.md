@@ -27,13 +27,15 @@ body {
 </style>
 -->
 
-# <font face="Verdana">Research Projects</font><br/>&nbsp;
+# <font face="Verdana">Projects</font><br/>&nbsp;
 
 ## <small><center>In Editing &#128062;</center><br/></small>
 
 *<u>Reminder: click the hyperlink title to access the source.</u>*<br>
 
-> ## [Delta Electronics Project - 2022]()
+## <font face="Verdana">Academic Projects</font><br/>
+
+> ## [Delta Electronics Project -- 2022]()
 > ### ------------------
 
 
@@ -42,7 +44,7 @@ body {
 </center>
 <br>
 
-> ## [CATL - 2023]()
+> ## [CATL -- 2023]()
 > ### ------------------
 
 
@@ -51,7 +53,7 @@ body {
 </center>
 <br>
 
-> ## [China Electric Power Research Institute Project - 2022]()
+> ## [China Electric Power Research Institute Project -- 2022]()
 > ### ------------------
 
 
@@ -60,7 +62,7 @@ body {
 </center>
 <br>
 
-> ## ["Challenge Cup" Competition Project - 2021]()
+> ## ["Challenge Cup" &nbsp;Project -- 2021]()
 > ### ------------------
 
 
@@ -69,7 +71,9 @@ body {
 </center>
 <br>
 
-> ## [National University Students Electrical Math Modeling Competition - 2021]()
+## <font face="Verdana">Competition Projects</font><br/>
+
+> ## [National University Students Electrical Math Modeling Competition -- 2021]()
 > ### ------------------
 
 
@@ -78,7 +82,7 @@ body {
 </center>
 <br>
 
-> ## [MCM/ICM - 2021]()
+> ## [MCM/ICM -- 2021]()
 > ### ------------------
 
 
@@ -87,7 +91,7 @@ body {
 </center>
 <br>
 
-> ## [Maker Conpetition - 2019]()
+> ## [Maker Conpetition -- 2019]()
 > ### ------------------
 
 
