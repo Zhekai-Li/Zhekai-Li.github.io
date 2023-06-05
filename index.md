@@ -81,7 +81,7 @@ body {
 
 <!--Besides, I also got the rare oppertunity to be mentored by xxx, researching the xxx.-->
 
-Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI.pdf) and [my CV](https://lizhekai.com/file/CV_ZhekaiLI.pdf).<br/>&nbsp;
+Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI_English.pdf) [[中文简历]](https://lizhekai.com/file/Resume_ZhekaiLI_English.pdf) and [my CV](https://lizhekai.com/file/CV_ZhekaiLI_English.pdf) [[中文CV]](https://lizhekai.com/file/CV_ZhekaiLI_Chinese.pdf).<br/>&nbsp;
 
 ## <font face="Verdana">Education</font><br/>
 
