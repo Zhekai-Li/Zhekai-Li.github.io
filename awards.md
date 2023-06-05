@@ -65,6 +65,6 @@ body {
 
 ## <font face="Verdana">Services</font><br/>
 
-- Dec. 2019：Participated in the international evaluation volunteer activity of HUST
+- Dec. 2019：Participated in the International Evaluation Volunteer Activity of HUST
 
 <br/>

@@ -77,7 +77,7 @@ body {
 
 ------
 <!--<br/>&nbsp;-->
-&emsp;&nbsp;&nbsp;I am a graduate majoring in **Electrical Engineering (EE)** at Shanghai Jiao Tong University (China). I am extremely fortunate to be advised by [Xu Cai](https://eei.sjtu.edu.cn/faculty-detail.php?id=107) and [Renxin Yang](https://eei.sjtu.edu.cn/faculty-detail.php?id=185) from Department of Electrical Engineering, Shanghai Jiao Tong University.
+&emsp;&nbsp;&nbsp;I am a graduate majoring in **Electrical Engineering (EE)** at Shanghai Jiao Tong University (China). I am extremely fortunate to be advised by [Xu Cai](https://eei.sjtu.edu.cn/faculty-detail.php?id=107) and [Renxin Yang](https://eei.sjtu.edu.cn/faculty-detail.php?id=185) from Shanghai Jiao Tong University.
 
 <!--Besides, I also got the rare oppertunity to be mentored by xxx, researching the xxx.-->
 
@@ -87,11 +87,11 @@ Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI_English.pdf) [[�
 
 - **Shanghai Jiao Tong University**, *School of Electronic Information and Electrical Engineering*
 >**Studying for a master's degree;&nbsp;&nbsp;*GPA: 4.00 / 4.00***
-<div align = right> Sept., 2022&nbsp;~&nbsp;Jan., 2025</div>
+<div align = right> Sept. 2022&nbsp;~&nbsp;Jan. 2025</div>
 
 - **Huazhong University of Science and Technology**, *School of Electrical and Electronic Engineering*
 >**Bachelor's degree;&nbsp;&nbsp;*GPA:  3.94 / 4.00***
-<div align = right> Sept., 2018&nbsp;~&nbsp;June, 2022</div><br/>&nbsp;
+<div align = right> Sept. 2018&nbsp;~&nbsp;June 2022</div><br/>&nbsp;
 
 
 ## <font face="Verdana">Research Field</font><br/> 
@@ -103,11 +103,11 @@ Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI_English.pdf) [[�
 
 <div style='display: none'>
 - **<font color='#8B0000'>[News]</font> I am looking for a Research Assistant Position in Electrical Engineering (EE) related to the Grid Forming Converter and its applications in VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration!**
-<div align = right>&#127796;&nbsp;Remote from July, 2023 and offline from July, 2024</div>
+<div align = right>&#127796;&nbsp;Remote from July 2023 and offline from July 2024</div>
 </div>
 
 - **<font color='#8B0000'>[News]</font> I am looking for a Research Assistant Position in Operation Research (OR)/Industrial Engineering (IE)/Operation Management (OM). Please feel free to** <a href= "mailto:zhekai_li@outlook.com"> **<u>contact me</u>** </a> **at any time!**
-<div align = right>&#127796;&nbsp;Remote from July, 2023 and offline from July, 2024</div>
+<div align = right>&#127796;&nbsp;Remote from July 2023 and offline from July 2024</div>
 
 
 
@@ -117,16 +117,16 @@ Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI_English.pdf) [[�
 
 - **Oct. 2021：**Honored to be awarded the [**National Scholarship (2020 ~ 2021)** again](https://mp.weixin.qq.com/s/QbRVy8weyYX8UtGLIQvx0w)!
 
-- **Oct. 2021：**Congratulations! Our team have won the **First Prize** in [National University Students Electrical Math Modeling Competition (13th)](https://lizhekai.com/file/2401_QuestionA_CSEE_Modeling.pdf).
+- **Oct. 2021：**Congratulations! Our team won the **First Prize** in [National University Students Electrical Math Modeling Competition (13th)](https://lizhekai.com/file/2401_QuestionA_CSEE_Modeling.pdf).
 
-- **July 2021：**Congratulations! Our team have won the **First Prize** in ["Challenge Cup" National Extracurricular Academic Science and Technology Works Competition for College Students (17th)](https://mp.weixin.qq.com/s/ZobAxUZ71jGbOV4LhYBiIQ).
+- **July 2021：**Congratulations! Our team won the **First Prize** in the ["Challenge Cup" National Extracurricular Academic Science and Technology Works Competition for College Students (17th)](https://mp.weixin.qq.com/s/ZobAxUZ71jGbOV4LhYBiIQ).
 
 - **June 2021：**Our conference paper [***Three-phase Motor Drive Topology with the Fault-tolerant Capability of Open-circuit on the Multiplexing Bridge***](https://lizhekai.com/mypaper/ECCE21_Three-phaseMotorDriveTopologywiththeFault-tolerantCapability.pdf) is accepted to ECCE 2021, a good start for my scientific exploration!
 
 - **Oct. 2019：**Honored to be awarded the [**National Scholarship (2018 ~ 2019)**](https://mp.weixin.qq.com/s/3hfo7MoAAi7Xte2C3pTVIA)!
 
-- **Dec. 2019：** [The International Evaluation Volunteer Activity of HUST](https://mp.weixin.qq.com/s/KX8FzfcE5yZikgJx7DlblQ) came to a successful conclusion and it is a great honor to have close communication with [**Professor Philip T.Krein**](https://ece.illinois.edu/about/directory/faculty/krein) from University of Illinois at Urbana-Champaign, [**Professor Georg Mueller**](https://www.healthtech.kit.edu/deutsch/112_247.php) from Karlsruhe 
-Institute of Technolog and [**Professor Katsumi Ida**](https://unit.nifs.ac.jp/research/archives/staff/ida-katsumi_eng?lang=eng&unit=unit03&paper=IdaKatsumi) from National Institute for Fusion Science!
+- **Dec. 2019：** [The International Evaluation Volunteer Activity of HUST](https://mp.weixin.qq.com/s/KX8FzfcE5yZikgJx7DlblQ) came to a successful conclusion and it is a great honor to have close communication with [**Professor Philip T.Krein**](https://ece.illinois.edu/about/directory/faculty/krein) from the University of Illinois at Urbana-Champaign, [**Professor Georg Mueller**](https://www.healthtech.kit.edu/deutsch/112_247.php) from Karlsruhe 
+Institute of Technology and [**Professor Katsumi Ida**](https://unit.nifs.ac.jp/research/archives/staff/ida-katsumi_eng?lang=eng&unit=unit03&paper=IdaKatsumi) from National Institute for Fusion Science!
 
-- **July 2019：**Our field trip to Gansu Provinceor ended, the investigation of **Renewable** **Energy** **Generation** **in** 
-**northwest** **China** made us having an in-depth understanding of the development of Revewable Energy. What a exhausting but meaningful journey!
+- **July 2019：**Our field trip to Gansu Province ended, the investigation of **Renewable** **Energy** **Generation** **in** 
+**northwest** **China** gave us an in-depth understanding of the development of Renewable Energy. What a exhausting but meaningful journey!
