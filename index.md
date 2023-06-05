@@ -96,8 +96,8 @@ Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI_English.pdf) [[ä¸
 
 ## <font face="Verdana">Research Field</font><br/> 
 
- &emsp;&nbsp;&nbsp;My current research focuses on the topology, control, converter modeling, and stability analysis of MMC-based HVDC system with wind farm integration. I am presently working on the **Grid Forming Converter** and its applications in **VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration**. 
- The integrationbu of **Renewable Energy** has received extensive attention under the global trend of environmental protection as well as low carbonization, bringing revolutionary changes to the development pattern of the whole world electric industry and influencing everyone's life.  I wish to devote my talent to this meaningful cause and bring well-being to the society.<br/>&nbsp;
+ &emsp;&nbsp;&nbsp;My current research focuses on the topology, control, converter modeling, and stability analysis of the MMC-based HVDC system with wind farm integration. I am presently working on the **Grid Forming Converter** and its applications in the **VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration**. 
+ The integration of **Renewable Energy** has received extensive attention under the global trend of environmental protection as well as low carbonization, bringing revolutionary changes to the development pattern of the whole world's electric industry and influencing everyone's life.  I wish to devote my talent to this meaningful cause and bring well-being to society.<br/>&nbsp;
 
 ## <font color='#8B0000'><font face="Verdana">News and Updates</font><br/> 
 
