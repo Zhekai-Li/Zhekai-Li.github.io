@@ -106,10 +106,8 @@ Here are [my Resume](https://lizhekai.com/file/Resume_ZhekaiLI_English.pdf) [[ä¸
 <div align = right>&#127796;&nbsp;Remote from July 2023 and offline from July 2024</div>
 </div>
 
-<div style='display: none'>
 - **<font color='#8B0000'>[News]</font> I am looking for a Research Assistant Position in Operation Research (OR)/Industrial Engineering (IE)/Operation Management (OM). Please feel free to** <a href= "mailto:zhekai_li@outlook.com"> **<u>contact me</u>** </a> **at any time!**
 <div align = right>&#127796;&nbsp;Remote from July 2023 and offline from July 2024</div>
-</div>
 
 
 
