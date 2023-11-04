@@ -32,6 +32,7 @@ body {
 ## <font face="Verdana">Scholarships</font><br/>
 
 
+- Nov. 2023：**First Prize** Scholarship (Top 1%;&emsp;$1200)
 - July 2021：**First Prize** Scholarship (Top 1%;&emsp;$1000)
 - July 2020：**First Prize** Scholarship (Top 1%;&emsp;$1000)
 - Nov. 2020：Academic Scholarship (Top 5%;&emsp;$180)

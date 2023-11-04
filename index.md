@@ -77,11 +77,11 @@ body {
 
 ------
 <!--<br/>&nbsp;-->
-&emsp;&nbsp;&nbsp;I am a graduate majoring in **Electrical Engineering (EE)** at Shanghai Jiao Tong University (China). I am extremely fortunate to be advised by [Xu Cai](https://eei.sjtu.edu.cn/faculty-detail.php?id=107) and [Renxin Yang](https://eei.sjtu.edu.cn/faculty-detail.php?id=185) from Shanghai Jiao Tong University.
+&emsp;&nbsp;&nbsp;I am now a second-year master student majoring in **Electrical Engineering (EE)** at Shanghai Jiao Tong University and I am preparing to pursue a **Ph.D. in Operation Research or Operation Management (OR/OM)** at a U.S. university starting in **the Fall of 2025**. I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell.edu/faculty-research/faculty/rz383/) from *Cornell SC Johnson College of Business* and [Prof. Cheng Hua](https://www.acem.sjtu.edu.cn/faculty/huacheng.html) from *Antai College of Economics and Management at Shanghai Jiao Tong University*.
 
 <!--Besides, I also got the rare oppertunity to be mentored by xxx, researching the xxx.-->
 
-Here is [my CV](https://lizhekai.com/file/CV_ZhekaiLI_English.pdf) [[中文简历]](https://lizhekai.com/file/CV_ZhekaiLI_Chinese.pdf).<br/>&nbsp;
+Here is [my Curriculum Vitae](https://lizhekai.com/file/CV_ZhekaiLI_English.pdf) [[中文简历]](https://lizhekai.com/file/CV_ZhekaiLI_Chinese.pdf).<br/>&nbsp;
 
 ## <font face="Verdana">Education</font><br/>
 
@@ -96,8 +96,12 @@ Here is [my CV](https://lizhekai.com/file/CV_ZhekaiLI_English.pdf) [[中文简�
 
 ## <font face="Verdana">Research Field</font><br/> 
 
- &emsp;&nbsp;&nbsp;My current research focuses on the topology, control, converter modeling, and stability analysis of the MMC-based HVDC system with wind farm integration. I am presently working on the **Grid Forming Converter** and its applications in the **VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration**. 
- The integration of **Renewable Energy** has received extensive attention under the global trend of environmental protection as well as low carbonization, bringing revolutionary changes to the development pattern of the whole world's electric industry and influencing everyone's life.  I wish to devote my talent to this meaningful cause and bring well-being to society.<br/>&nbsp;
+ <!--&emsp;&nbsp;&nbsp;My current research focuses on the topology, control, converter modeling, and stability analysis of the MMC-based HVDC system with wind farm integration. I am presently working on the **Grid Forming Converter** and its applications in the **VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration**. 
+ The integration of **Renewable Energy** has received extensive attention under the global trend of environmental protection as well as low carbonization, bringing revolutionary changes to the development pattern of the whole world's electric industry and influencing everyone's life.  I wish to devote my talent to this meaningful cause and bring well-being to society.<br/>&nbsp;-->
+
+My current research is centered on **Multi-armed Bandit (MAB)** and **online learning**, with a particular focus on their integration into various **healthcare-related challenges**. I am presently working on **AI Drug Discovery (AI-DD)** and **ambulance dispatch**.
+
+ **"Ensuring healthy lives and promoting the well-being at all ages is essential to sustainable development."** The fusion of **online learning** and **healthcare problems** has received extensive attention under the urgent need for more efficient and effective approaches to disease prevention, life extension, and population health improvement, as well as treating disease, bringing revolutionary changes to the development pattern of the healthcare system all around the world and influencing everyone's life. I am deeply committed to this meaningful cause, dedicated to bring even the slightest well-being to the world.<br/>&nbsp;
 
 ## <font color='#8B0000'><font face="Verdana">News and Updates</font><br/> 
 
