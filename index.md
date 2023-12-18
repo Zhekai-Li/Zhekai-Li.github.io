@@ -117,7 +117,9 @@ My current research is centered on **Multi-armed Bandit (MAB)** and **online lea
 
 ------------------------------------------------------------------
 
-- **May 2023：**Our conference paper [***Research on Virtual Admittance Control Strategy***](https://lizhekai.com/mypaper/PEDG23_ResearchonVirtualAdmittanceControlStrategy.pdf) is accepted to PEDG 2023, see you in Shanghai!
+- **Dec. 2023：**Our conference paper [***Frequency-Reactive Power Optimization Strategy of Grid-forming Offshore Wind Farm Using DRU-HVDC Transmission***](https://lizhekai.com/mypaper/EI223_Frequency-ReactivePowerOptimizationStrategyofGrid-formingOffshoreWindFarmUsingDRU-HVDCTransmission.pdf) is accepted to IEEE EI^2 2023. Here is our [***poster***](https://lizhekai.com/poster_and_oral/IEEE_EI2_2023-Poster.pdf), see you in Hangzhou!
+
+- **May 2023：**Our conference paper [***The Virtual Admittance Control of Sending End Converter for Offshore Wind Farm Integration***](https://lizhekai.com/mypaper/PEDG23_ResearchonVirtualAdmittanceControlStrategy.pdf) is accepted to IEEE PEDG 2023. Here is our [***poster***](https://lizhekai.com/poster_and_oral/IEEE_PEDG_2023-Poster.pdf), see you in Shanghai! 
 
 - **Oct. 2021：**Honored to be awarded the [**National Scholarship (2020 ~ 2021)** again](https://mp.weixin.qq.com/s/QbRVy8weyYX8UtGLIQvx0w)!
 

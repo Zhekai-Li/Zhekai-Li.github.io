@@ -91,7 +91,7 @@ body {
 </center>
 <br>
 
-> ## [Maker Conpetition -- 2019]()
+> ## [Maker Competition -- 2019]()
 > ### ------------------
 
 
