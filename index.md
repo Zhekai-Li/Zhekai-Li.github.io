@@ -111,19 +111,32 @@ I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell
 
 <!--Besides, I also got the rare oppertunity to be mentored by xxx, researching the xxx.-->
 
-Here is [my Curriculum Vitae](https://lizhekai.com/file/CV_ZhekaiLI_English.pdf).<br/>
+Here is [my Curriculum Vitae](https://lizhekai.com/file/CV_ZhekaiLI_English.pdf).<br/><br/>
 
 <!-- [[中文简历]](https://lizhekai.com/file/CV_ZhekaiLI_Chinese.pdf) -->
 
 ## <font face="Verdana">Education</font><br/>
 
 - **Shanghai Jiao Tong University**, *School of Electronic Information and Electrical Engineering*
->**Studying for a master's degree;&nbsp;&nbsp;*GPA: 3.94 / 4.00 (2/114)***
-<div align = right> Sept. 2022&nbsp;~&nbsp;Jan. 2025</div>
+<blockquote>
+  <table style="width: 100%; border-collapse: collapse;" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="border: none; text-align: left;">Studying for a master's degree;&nbsp;&nbsp;<em>GPA: 3.94 / 4.00 (2/114)</em></td>
+      <td style="border: none; text-align: right;"><em>Sept. 2022 ~ Jan. 2025</em></td>
+    </tr>
+  </table>
+</blockquote>
+
 
 - **Huazhong University of Science and Technology**, *School of Electrical and Electronic Engineering*
->**Bachelor's degree;&nbsp;&nbsp;*GPA:  3.94 / 4.00 (1%)***
-<div align = right> Sept. 2018&nbsp;~&nbsp;June 2022</div><br/>
+<blockquote>
+  <table style="width: 100%; border-collapse: collapse;" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="border: none; text-align: left;">Bachelor's degree;&nbsp;&nbsp;<em>GPA: 3.94 / 4.00 (Top 1%)</em></td>
+      <td style="border: none; text-align: right;"><em>Sept. 2018 ~ June 2022</em></td>
+    </tr>
+  </table>
+</blockquote>
 
 ## <font face="Verdana">Research Field</font><br/><br/>
 
