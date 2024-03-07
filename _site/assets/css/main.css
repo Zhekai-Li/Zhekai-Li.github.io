@@ -2,10 +2,10 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 audio,canvas,video{display:inline-block;}
 audio:not([controls]){display:none;height:0;}
 
-<a>
+/* <a>
 	a.HHover { font-family:Georgia, 'Times New Roman', Times, serif;font-size:27px;}
 	a.HHover:hover { font-size:36px;text-decoration:overline;color:lightslategrey;font-family:Verdana, Geneva, Tahoma, sans-serif}
-</>
+</> */
 
 [hidden]{display:none;}
 html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
