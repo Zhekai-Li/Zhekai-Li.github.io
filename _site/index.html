@@ -18,7 +18,7 @@
 
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="Zhekai Li">
-<meta property="og:description" content="------------------------------------------------------------# Bio&nbsp;> Here is **Zhekai Li 李哲锴  .**------&emsp;&nbs...">
+<meta property="og:description" content="------------------------------------------------------------## Bio        Nerd for Knowledge, Jock for Sports> Here i...">
 <meta property="og:url" content="http://localhost:7599/">
 <meta property="og:site_name" content="Zhekai Li">
 
@@ -90,43 +90,71 @@
 <!-- Lastly modified by Hanlin CAI in 2023/01/15 -->
 
 <style>
-	a.HHover { font-family:Georgia, 'Times New Roman', Times, serif;font-size:27px;}
-	a.HHover:hover { font-size:36px;text-decoration:overline;color:lightslategrey;font-family:Verdana, Geneva, Tahoma, sans-serif}
+    a.HHHover {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 27px;
+        position: relative;
+        color: black;
+        text-decoration: none;
+    }
+
+    a.HHHover::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: -4px; /* 调整这里的值来改变下划线与文本之间的距离 */
+        width: 100%;
+        height: 2px;
+        background-color: black;
+        transform: scaleX(0);
+        transition: transform 0.3s ease;
+    }
+
+    a.HHHover:hover::after {
+        transform: scaleX(1);
+    }
 </style>
 
 <div class="navigation-wrapper">
-	<div class="site-name">
-		<a href="http://localhost:7599">Zhekai Li</a>
-	</div><!-- /.site-name -->
-  
-	<div class="top-navigation">
-		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-		    <ul>
-		        
-            <li><a href="http://localhost:7599/" class="HHover">About Me</a></li>
-		        
-            <li><a href="http://localhost:7599/publications/" >Publications</a></li>
-		        
-            <li><a href="http://localhost:7599/projects/" >Projects</a></li>
-		        
-            <li><a href="http://localhost:7599/awards/" >Awards</a></li>
-		        
-            <li><a href="http://localhost:7599/hobbies/" >Hobbies</a></li>
-		        
-            <li><a href="http://localhost:7599/journey/" >Journey</a></li>
-		        
-		    </ul>
-		</nav>
-	</div><!-- /.top-navigation -->
+    <div class="site-name">
+        <a href="http://localhost:7599">Zhekai Li</a>
+    </div><!-- /.site-name -->
+    
+    <div class="top-navigation">
+        <nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+            <ul>
+                
+                    <li><a href="http://localhost:7599/" class="HHHover">About Me</a></li>
+                
+                    <li><a href="http://localhost:7599/publications/" class="HHHover">Publications</a></li>
+                
+                    <li><a href="http://localhost:7599/projects/" class="HHHover">Projects</a></li>
+                
+                    <li><a href="http://localhost:7599/awards/" class="HHHover">Awards</a></li>
+                
+                    <li><a href="http://localhost:7599/hobbies/" class="HHHover">Hobbies</a></li>
+                
+                    <li><a href="http://localhost:7599/journey/" class="HHHover">Journey</a></li>
+                
+            </ul>
+        </nav>
+    </div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
 
-<!-- Lastly modified by Zhekai LI in 2023/06/02 -->
+<!-- Lastly modified by Zhekai LI in 2024/03/07 -->
+
 
 
 
 <div id="main" role="main"  itemprop="mainContentOfPage">
   <div class="article-author-top">
-    <img src="http://localhost:7599/images/lizhekai_1.jpg" class="bio-photo" alt="Zhekai Li bio photo" width="100" height="100"></a>
+    <style>
+	.bio-photo {
+    border-radius: 0;
+}
+</style>
+
+<img src="http://localhost:7599/images/lizhekai_1.jpg" class="bio-photo" alt="Zhekai Li bio photo" width="150" height="150"></a>
 
 <!-- <h4>Zhekai Li</h4> -->
 
@@ -136,7 +164,8 @@
 </style>
 
 <p></p>
-<p style="text-indent:8%;font-size:large;margin-top:1.5em;"><a href="mailto:zhekai_li@outlook.com" target="_blank"><i class="icon-mail"></i> Email</a></p>
+
+<p style="text-indent:8%;font-size:large;margin-top:1em;"><a href="mailto:zhekai_li@outlook.com" target="_blank"><i class="icon-mail"></i> Email</a></p>
 
 
 
@@ -158,18 +187,41 @@
 
 <!--  -->
 
-<!-- Lastly modified by Hanlin CAI in 2023/01/15 -->
+<!-- Lastly modified by Zhekai LI in 2024/03/07 -->
   </div>
   <article itemscope itemtype="http://schema.org/CreativeWork">
   
     <div class="article-wrap" itemprop="text">
       <hr />
 
-<h1 id="bio"><font face="Verdana">Bio</font><br /> </h1>
+<h2 id="bio"><font face="Verdana">Bio</font><br /></h2>
 
 <!--Link：https://www.jianshu.com/p/82182f3587e1-->
 
-<body><img src="https://lizhekai.com/lizhekai.jpg" width="240" height="200" alt="Trip to Xia Men" align="right" /></body>
+<!-- <body><img src="https://lizhekai.com/lizhekai.jpg" width = "300" height = "250" alt="Volleyball" align=right /></body> -->
+
+<style>
+    figure {
+        float: right;
+        margin-left: 0px;
+    }
+
+    figcaption {
+        font-size: 15px; 
+        color: #888;
+        text-align: center; 
+        font-weight: bold; 
+    }
+
+    figcaption:before {
+        content: none !important;
+    }
+</style>
+
+<figure>
+    <img src="https://lizhekai.com/lizhekai.jpg" width="320" height="250" alt="Volleyball" />
+    <figcaption>Nerd for Knowledge, Jock for Sports</figcaption>
+</figure>
 
 <!--style='BORDER-RIGHT:#ADADAD 2px solid;
 BORDER-TOP:#ADADAD 2px solid;
@@ -240,18 +292,22 @@ body {
 
 <hr />
 <!--<br/>&nbsp;-->
-<p>   I am now a second-year master student majoring in <strong>Electrical Engineering (EE)</strong> at Shanghai Jiao Tong University and I am preparing to pursue a <strong>Ph.D. in Operation Research or Operation Management (OR/OM)</strong> at a U.S. university starting in <strong>the Fall of 2025</strong>. I am extremely fortunate to be advised by <a href="https://sha.cornell.edu/faculty-research/faculty/rz383/">Prof. Ruihao Zhu</a> from <em>Cornell SC Johnson College of Business</em> and <a href="https://www.acem.sjtu.edu.cn/faculty/huacheng.html">Prof. Cheng Hua</a> from <em>Antai College of Economics and Management at Shanghai Jiao Tong University</em>.</p>
+<p>   I am now a second-year master student majoring in <strong>Electrical Engineering (EE)</strong> at Shanghai Jiao Tong University and I am preparing to pursue a <strong>Ph.D. in Operation Research or Operation Management (OR/OM)</strong> at a U.S. university starting in <strong>the Fall of 2025</strong>.</p>
+
+<p>I am extremely fortunate to be advised by <a href="https://sha.cornell.edu/faculty-research/faculty/rz383/">Prof. Ruihao Zhu</a> from <em>Cornell SC Johnson College of Business</em> and <a href="https://www.acem.sjtu.edu.cn/faculty/huacheng.html">Prof. Cheng Hua</a> from <em>Antai College of Economics and Management at Shanghai Jiao Tong University</em>.</p>
 
 <!--Besides, I also got the rare oppertunity to be mentored by xxx, researching the xxx.-->
 
-<p>Here is <a href="https://lizhekai.com/file/CV_ZhekaiLI_English.pdf">my Curriculum Vitae</a> <a href="https://lizhekai.com/file/CV_ZhekaiLI_Chinese.pdf">[中文简历]</a>.<br /> </p>
+<p>Here is <a href="https://lizhekai.com/file/CV_ZhekaiLI_English.pdf">my Curriculum Vitae</a>.<br /></p>
+
+<!-- [[中文简历]](https://lizhekai.com/file/CV_ZhekaiLI_Chinese.pdf) -->
 
 <h2 id="education"><font face="Verdana">Education</font><br /></h2>
 
 <ul>
   <li><strong>Shanghai Jiao Tong University</strong>, <em>School of Electronic Information and Electrical Engineering</em>
     <blockquote>
-      <p><strong>Studying for a master’s degree;  <em>GPA: 4.00 / 4.00</em></strong></p>
+      <p><strong>Studying for a master’s degree;  <em>GPA: 3.94 / 4.00 (2/114)</em></strong></p>
     </blockquote>
   </li>
 </ul>
@@ -260,21 +316,21 @@ body {
 <ul>
   <li><strong>Huazhong University of Science and Technology</strong>, <em>School of Electrical and Electronic Engineering</em>
     <blockquote>
-      <p><strong>Bachelor’s degree;  <em>GPA:  3.94 / 4.00</em></strong></p>
+      <p><strong>Bachelor’s degree;  <em>GPA:  3.94 / 4.00 (1%)</em></strong></p>
     </blockquote>
   </li>
 </ul>
 <div align="right"> Sept. 2018&nbsp;~&nbsp;June 2022</div>
-<p><br /> </p>
+<p><br /></p>
 
-<h2 id="research-field"><font face="Verdana">Research Field</font><br /></h2>
+<h2 id="research-field"><font face="Verdana">Research Field</font><br /><br /></h2>
 
 <p><!--&emsp;&nbsp;&nbsp;My current research focuses on the topology, control, converter modeling, and stability analysis of the MMC-based HVDC system with wind farm integration. I am presently working on the **Grid Forming Converter** and its applications in the **VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration**. 
  The integration of **Renewable Energy** has received extensive attention under the global trend of environmental protection as well as low carbonization, bringing revolutionary changes to the development pattern of the whole world's electric industry and influencing everyone's life.  I wish to devote my talent to this meaningful cause and bring well-being to society.<br/>&nbsp;--></p>
 
 <p>My current research is centered on <strong>Multi-armed Bandit (MAB)</strong> and <strong>online learning</strong>, with a particular focus on their integration into various <strong>healthcare-related challenges</strong>. I am presently working on <strong>AI Drug Discovery (AI-DD)</strong> and <strong>ambulance dispatch</strong>.</p>
 
-<p><strong>“Ensuring healthy lives and promoting the well-being at all ages is essential to sustainable development.”</strong> The fusion of <strong>online learning</strong> and <strong>healthcare problems</strong> has received extensive attention under the urgent need for more efficient and effective approaches to disease prevention, life extension, and population health improvement, as well as treating disease, bringing revolutionary changes to the development pattern of the healthcare system all around the world and influencing everyone’s life. I am deeply committed to this meaningful cause, dedicated to bring even the slightest well-being to the world.<br /> </p>
+<p><strong>“Ensuring healthy lives and promoting the well-being at all ages is essential to sustainable development.”</strong> The fusion of <strong>online learning</strong> and <strong>healthcare problems</strong> has received extensive attention under the urgent need for more efficient and effective approaches to disease prevention, life extension, and population health improvement, as well as treating disease, bringing revolutionary changes to the development pattern of the healthcare system all around the world and influencing everyone’s life. I am deeply committed to this meaningful cause, dedicated to bring even the slightest well-being to the world.<br /></p>
 
 <h2 id="news-and-updates"><font color="#8B0000"><font face="Verdana">News and Updates</font><br /></font></h2>
 

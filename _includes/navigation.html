@@ -1,22 +1,43 @@
 <style>
-	a.HHover { font-family:Georgia, 'Times New Roman', Times, serif;font-size:27px;}
-	a.HHover:hover { font-size:36px;text-decoration:overline;color:lightslategrey;font-family:Verdana, Geneva, Tahoma, sans-serif}
+    a.HHHover {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 27px;
+        position: relative;
+        color: black;
+        text-decoration: none;
+    }
+
+    a.HHHover::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: -4px; /* 调整这里的值来改变下划线与文本之间的距离 */
+        width: 100%;
+        height: 2px;
+        background-color: black;
+        transform: scaleX(0);
+        transition: transform 0.3s ease;
+    }
+
+    a.HHHover:hover::after {
+        transform: scaleX(1);
+    }
 </style>
 
 <div class="navigation-wrapper">
-	<div class="site-name">
-		<a href="{{ site.url }}">{{ site.title }}</a>
-	</div><!-- /.site-name -->
-  {% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
-	<div class="top-navigation">
-		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-		    <ul>
-		        {% for link in site.links %}
-            <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="HHover"{% endif %}>{{ link.title }}</a></li>
-		        {% endfor %}
-		    </ul>
-		</nav>
-	</div><!-- /.top-navigation -->
+    <div class="site-name">
+        <a href="{{ site.url }}">{{ site.title }}</a>
+    </div><!-- /.site-name -->
+    {% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
+    <div class="top-navigation">
+        <nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+            <ul>
+                {% for link in site.links %}
+                    <li><a href="{{ site.url }}{{ link.url }}" class="HHHover">{{ link.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
 
-<!-- Lastly modified by Zhekai LI in 2023/06/02 -->
+<!-- Lastly modified by Zhekai LI in 2024/03/07 -->

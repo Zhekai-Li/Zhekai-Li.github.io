@@ -28,27 +28,31 @@ body {
 </style>
 -->
 
-# <font face="Verdana">Journey</font><br/>&nbsp;
+<!-- # <font face="Verdana">Journey</font><br/>&nbsp; -->
 
-## <small><center>In Editing &#128062;</center><br/></small>
+<!-- ## <small><center>In Editing &#128062;</center><br/></small> -->
 
 ## <font face="Verdana">2022</font><br/>
 
-> #### [Four Years' Wonderful Journey in HUST](https://lizhekai.com/JourneyHust)
+> [Going to Japan after six years -- A trip to Hokkaido](https://lizhekai.com/JourneyHokkaido)
 
-<br/>&nbsp;
+## <font face="Verdana">2022</font><br/>
+
+> [Four Years' Wonderful Journey in HUST](https://lizhekai.com/JourneyHust)
+
+<!-- <br/>&nbsp; -->
 
 ## <font face="Verdana">2019</font><br/>
 
-> #### [Summer Social Practice - Head Northwest to the Gobi Desert](https://lizhekai.com/JourneySocialpractice)
+> [Summer Social Practice - Head Northwest to the Gobi Desert](https://lizhekai.com/JourneySocialpractice)
 
-<br/>&nbsp;
+<!-- <br/>&nbsp; -->
 
 ## <font face="Verdana">2018</font><br/>
 
-> #### [Trip to Japan -  Akihabara, metro, and Shrine](https://lizhekai.com/JourneyJapan)
+> [Trip to Japan -  Akihabara, metro, and Shrine](https://lizhekai.com/JourneyJapan)
 
-<br/>&nbsp;
+<!-- <br/>&nbsp; -->
 
 
 ---------------------------------------------------------------

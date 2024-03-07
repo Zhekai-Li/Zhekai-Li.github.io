@@ -27,17 +27,19 @@ body {
 }
 </style>
 -->
-
-# <font face="Verdana">Publications</font><br/>&nbsp;
+<!-- 
+## <font face="Verdana">Publications</font><br/><br/> -->
 
 <!-- > [[Chinese Version]](https://lizhekai.com/TEST/)-->
 <!-- > Lastest Update: 21th May, 2023&nbsp;&nbsp;&nbsp;[[Chinese Version]](https://lizhekai.com/publications-zh/) -->
 
-> <big>Lastest Update: 18th Dec., 2023</big>
+> Lastest Update: 18th Dec., 2023
 
-## <font face="Verdana">Journal Paper</font><br/>&nbsp;
+## <font face="Verdana">Journal Paper</font><br/><br/>
 
-## <small><center>On the way &#128548;</center><br/></small>
+---
+
+<!-- ## <small><center>On the way &#128548;</center><br/></small> -->
 
 ## <font face="Verdana">Conference Paper</font><br/>
 
@@ -65,4 +67,6 @@ Congress and Exposition (ECCE), 5043–5047.
 
 <br/>
 
-## <font face="Verdana">Working Paper</font><br/>
+## <font face="Verdana">Working Paper</font><br/><br/>
+
+---

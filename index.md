@@ -3,12 +3,40 @@ layout: page
 ---
 ------------------------------------------------------------
 
-# <font face="Verdana">Bio</font><br/>&nbsp;
+
+## <font face="Verdana">Bio</font><br/>
 
 <!--Link：https://www.jianshu.com/p/82182f3587e1-->
 
 
-<body><img src="https://lizhekai.com/lizhekai.jpg" width = "240" height = "200" alt="Trip to Xia Men" align=right /></body>
+<!-- <body><img src="https://lizhekai.com/lizhekai.jpg" width = "300" height = "250" alt="Volleyball" align=right /></body> -->
+
+<style>
+    figure {
+        float: right;
+        margin-left: 0px;
+    }
+
+    figcaption {
+        font-size: 15px; 
+        color: #888;
+        text-align: center; 
+        font-weight: bold; 
+    }
+
+    figcaption:before {
+        content: none !important;
+    }
+</style>
+
+<figure>
+    <img src="https://lizhekai.com/lizhekai.jpg" width="320" height="250" alt="Volleyball" />
+    <figcaption>Nerd for Knowledge, Jock for Sports</figcaption>
+</figure>
+
+
+
+
 
 <!--style='BORDER-RIGHT:#ADADAD 2px solid;
 BORDER-TOP:#ADADAD 2px solid;
@@ -77,31 +105,34 @@ body {
 
 ------
 <!--<br/>&nbsp;-->
-&emsp;&nbsp;&nbsp;I am now a second-year master student majoring in **Electrical Engineering (EE)** at Shanghai Jiao Tong University and I am preparing to pursue a **Ph.D. in Operation Research or Operation Management (OR/OM)** at a U.S. university starting in **the Fall of 2025**. I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell.edu/faculty-research/faculty/rz383/) from *Cornell SC Johnson College of Business* and [Prof. Cheng Hua](https://www.acem.sjtu.edu.cn/faculty/huacheng.html) from *Antai College of Economics and Management at Shanghai Jiao Tong University*.
+&emsp;&nbsp;&nbsp;I am now a second-year master student majoring in **Electrical Engineering (EE)** at Shanghai Jiao Tong University and I am preparing to pursue a **Ph.D. in Operation Research or Operation Management (OR/OM)** at a U.S. university starting in **the Fall of 2025**.
+
+I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell.edu/faculty-research/faculty/rz383/) from *Cornell SC Johnson College of Business* and [Prof. Cheng Hua](https://www.acem.sjtu.edu.cn/faculty/huacheng.html) from *Antai College of Economics and Management at Shanghai Jiao Tong University*.
 
 <!--Besides, I also got the rare oppertunity to be mentored by xxx, researching the xxx.-->
 
-Here is [my Curriculum Vitae](https://lizhekai.com/file/CV_ZhekaiLI_English.pdf) [[中文简历]](https://lizhekai.com/file/CV_ZhekaiLI_Chinese.pdf).<br/>&nbsp;
+Here is [my Curriculum Vitae](https://lizhekai.com/file/CV_ZhekaiLI_English.pdf).<br/>
+
+<!-- [[中文简历]](https://lizhekai.com/file/CV_ZhekaiLI_Chinese.pdf) -->
 
 ## <font face="Verdana">Education</font><br/>
 
 - **Shanghai Jiao Tong University**, *School of Electronic Information and Electrical Engineering*
->**Studying for a master's degree;&nbsp;&nbsp;*GPA: 4.00 / 4.00***
+>**Studying for a master's degree;&nbsp;&nbsp;*GPA: 3.94 / 4.00 (2/114)***
 <div align = right> Sept. 2022&nbsp;~&nbsp;Jan. 2025</div>
 
 - **Huazhong University of Science and Technology**, *School of Electrical and Electronic Engineering*
->**Bachelor's degree;&nbsp;&nbsp;*GPA:  3.94 / 4.00***
-<div align = right> Sept. 2018&nbsp;~&nbsp;June 2022</div><br/>&nbsp;
+>**Bachelor's degree;&nbsp;&nbsp;*GPA:  3.94 / 4.00 (1%)***
+<div align = right> Sept. 2018&nbsp;~&nbsp;June 2022</div><br/>
 
-
-## <font face="Verdana">Research Field</font><br/> 
+## <font face="Verdana">Research Field</font><br/><br/>
 
  <!--&emsp;&nbsp;&nbsp;My current research focuses on the topology, control, converter modeling, and stability analysis of the MMC-based HVDC system with wind farm integration. I am presently working on the **Grid Forming Converter** and its applications in the **VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration**. 
  The integration of **Renewable Energy** has received extensive attention under the global trend of environmental protection as well as low carbonization, bringing revolutionary changes to the development pattern of the whole world's electric industry and influencing everyone's life.  I wish to devote my talent to this meaningful cause and bring well-being to society.<br/>&nbsp;-->
 
 My current research is centered on **Multi-armed Bandit (MAB)** and **online learning**, with a particular focus on their integration into various **healthcare-related challenges**. I am presently working on **AI Drug Discovery (AI-DD)** and **ambulance dispatch**.
 
- **"Ensuring healthy lives and promoting the well-being at all ages is essential to sustainable development."** The fusion of **online learning** and **healthcare problems** has received extensive attention under the urgent need for more efficient and effective approaches to disease prevention, life extension, and population health improvement, as well as treating disease, bringing revolutionary changes to the development pattern of the healthcare system all around the world and influencing everyone's life. I am deeply committed to this meaningful cause, dedicated to bring even the slightest well-being to the world.<br/>&nbsp;
+ **"Ensuring healthy lives and promoting the well-being at all ages is essential to sustainable development."** The fusion of **online learning** and **healthcare problems** has received extensive attention under the urgent need for more efficient and effective approaches to disease prevention, life extension, and population health improvement, as well as treating disease, bringing revolutionary changes to the development pattern of the healthcare system all around the world and influencing everyone's life. I am deeply committed to this meaningful cause, dedicated to bring even the slightest well-being to the world.<br/>
 
 ## <font color='#8B0000'><font face="Verdana">News and Updates</font><br/> 
 
