@@ -33,7 +33,7 @@ body {
 <!-- > [[Chinese Version]](https://lizhekai.com/TEST/)-->
 <!-- > Lastest Update: 21th May, 2023&nbsp;&nbsp;&nbsp;[[Chinese Version]](https://lizhekai.com/publications-zh/) -->
 
-> Lastest Update: 18th Dec., 2023
+> Lastest Update: 08th Mar., 2024
 
 ## <font face="Verdana">Journal Paper</font><br/><br/>
 
@@ -43,17 +43,11 @@ body {
 
 ## <font face="Verdana">Conference Paper</font><br/>
 
-- **<u>Li, Z.</u>**, Liang, L., Yang, R., Cai, X. (2023). [***The Virtual Admittance Control of Sending End Converter for
-Offshore Wind Farm Integration***](https://lizhekai.com/mypaper/PEDG23_ResearchonVirtualAdmittanceControlStrategy.pdf). 2023 IEEE 14th International Symposium on Power Electronics for
-Distributed Generation Systems (PEDG). Participateing in June, 2023 and the paper will be included later. 
+- **<u>Z. Li</u>**, K. Han, X. Cai, R. Yang, H. Yu, P. Xia, L. Liu, [***“Frequency-Reactive Power Optimization Strategy of Grid-forming Offshore Wind Farm Using DRU-HVDC Transmission,”***](https://lizhekai.com/mypaper/EI223_Frequency-ReactivePowerOptimizationStrategyofGrid-formingOffshoreWindFarmUsingDRU-HVDCTransmission.pdf) accepted by the 2023 IEEE Conference on Energy Internet and Energy System Integration (EI2).
 
-- **<u>Li, Z.</u>**, Liang, L., Yang, R., Cai, X. (2023). [***The Virtual Admittance Control of Sending End Converter for
-Offshore Wind Farm Integration***](https://lizhekai.com/mypaper/PEDG23_ResearchonVirtualAdmittanceControlStrategy.pdf). 2023 IEEE 14th International Symposium on Power Electronics for
-Distributed Generation Systems (PEDG). Participateing in June, 2023 and the paper will be included later. https://doi.org/10.1109/PEDG56097.2023.10215304
+- **<u>Z. Li</u>**, L. Liang, R. Yang, and X. Cai, [***“The Virtual Admittance Control of Sending End Converter for Offshore Wind Farm Integration,”***](https://lizhekai.com/mypaper/PEDG23_ResearchonVirtualAdmittanceControlStrategy.pdf) in 2023 IEEE 14th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), Jun. 2023, pp. 133–136. doi: 10.1109/PEDG56097.2023.10215304.
 
-- Sun, X., Liu, Z., **<u>Li, Z.</u>**, Sun, Q., Li, A., & Jiang, D. (2021). [***Three-phase Motor Drive Topology with the
-Fault-tolerant Capability of Open-circuit on the Multiplexing Bridge***](https://lizhekai.com/mypaper/ECCE21_Three-phaseMotorDriveTopologywiththeFault-tolerantCapability.pdf). 2021 IEEE Energy Conversion
-Congress and Exposition (ECCE), 5043–5047.
+- X. Sun, Z. Liu, **<u>Z. Li</u>**, Q. Sun, A. Li, and D. Jiang, [***“Three-phase Motor Drive Topology with the Fault-tolerant Capability of Open-circuit on the Multiplexing Bridge,”***](https://lizhekai.com/mypaper/ECCE21_Three-phaseMotorDriveTopologywiththeFault-tolerantCapability.pdf) in 2021 IEEE Energy Conversion Congress and Exposition (ECCE), Oct. 2021, pp. 5043–5047. doi: 10.1109/ECCE47101.2021.9595370.
 <br/>&nbsp;
 
 

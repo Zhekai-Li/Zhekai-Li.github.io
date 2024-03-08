@@ -15,13 +15,16 @@ layout: page
     figure {
         float: right;
         margin-left: 0px;
+        /* margin-bottom: 10px; */
     }
 
     figcaption {
+        font-family: 'Georgia', serif;
         font-size: 15px; 
         color: #888;
         text-align: center; 
-        font-weight: bold; 
+        font-weight: bold;
+        /* margin-bottom: 100px; */
     }
 
     figcaption:before {

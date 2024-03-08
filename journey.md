@@ -32,7 +32,7 @@ body {
 
 <!-- ## <small><center>In Editing &#128062;</center><br/></small> -->
 
-## <font face="Verdana">2022</font><br/>
+## <font face="Verdana">2024</font><br/>
 
 > [Going to Japan after six years -- A trip to Hokkaido](https://lizhekai.com/JourneyHokkaido)
 
