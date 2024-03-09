@@ -15,6 +15,7 @@ layout: page
     figure {
         float: right;
         margin-left: 0px;
+        margin-top: -55px;
         /* margin-bottom: 10px; */
     }
 
@@ -24,6 +25,7 @@ layout: page
         color: #888;
         text-align: center; 
         font-weight: bold;
+        margin-top: -6px;
         /* margin-bottom: 100px; */
     }
 
@@ -114,10 +116,11 @@ I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell
 
 <!--Besides, I also got the rare oppertunity to be mentored by xxx, researching the xxx.-->
 
-Here is [my Curriculum Vitae](https://lizhekai.com/file/CV_ZhekaiLI_English.pdf).<br/><br/>
+<!-- Here is [my Curriculum Vitae](https://lizhekai.com/file/CV_ZhekaiLI_English.pdf).<br/><br/> -->
 
 <!-- [[中文简历]](https://lizhekai.com/file/CV_ZhekaiLI_Chinese.pdf) -->
 
+<br/><br/>
 ## <font face="Verdana">Education</font><br/>
 
 - **Shanghai Jiao Tong University**, *School of Electronic Information and Electrical Engineering*
