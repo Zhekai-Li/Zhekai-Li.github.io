@@ -8,7 +8,7 @@ audio:not([controls]){display:none;height:0;}
 </> */
 
 [hidden]{display:none;}
-html{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
+html{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
 body{margin:0%;}
 a:focus{outline:thin dotted;}
 a:active,a:hover{outline:0;}
