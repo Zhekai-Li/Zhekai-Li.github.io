@@ -10,7 +10,7 @@ url: http://lizhekai.com/
 
 # Owner/author information
 owner:
-  name: Zhekai Li111
+  name: Zhekai Li
   avatar: lizhekai_1.jpg
 #  bio:
   email: zhekai_li@outlook.com
@@ -35,9 +35,9 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: About Me111
     url: /
-  - title: Publications
+  - title: Publications1111
     url: /publications/
   - title: Projects
     url: /projects/
