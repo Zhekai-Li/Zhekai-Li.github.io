@@ -35,12 +35,13 @@ body {
 
 > Lastest Update: 08th Mar., 2024
 
-## <font face="Verdana">Journal Paper</font><br/><br/>
+## <font face="Verdana">Journal Paper</font><br/>
 
 - **<u>Z. Li</u>**, H. Yu, Z. Fang, X. Cai, R. Yang, ***“Research on Commutation Mechanism and Harmonic Suppression of Offshore Wind Farm Integration With DRU-VSC Hybrid Transmission System.”*** Proceedings of the CSEE, under review.
 
 <!-- ## <small><center>On the way &#128548;</center><br/></small> -->
 
+<br/>&nbsp;
 ## <font face="Verdana">Conference Paper</font><br/>
 
 - **<u>Z. Li</u>**, K. Han, X. Cai, R. Yang, H. Yu, P. Xia, L. Liu, [***“Frequency-Reactive Power Optimization Strategy of Grid-forming Offshore Wind Farm Using DRU-HVDC Transmission,”***](https://lizhekai.com/mypaper/EI223_Frequency-ReactivePowerOptimizationStrategyofGrid-formingOffshoreWindFarmUsingDRU-HVDCTransmission.pdf) accepted by the 2023 IEEE Conference on Energy Internet and Energy System Integration (EI2).
