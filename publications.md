@@ -37,7 +37,7 @@ body {
 
 ## <font face="Verdana">Journal Paper</font><br/><br/>
 
----
+- **<u>Z. Li</u>**, H. Yu, Z. Fang, X. Cai, R. Yang, ***“Research on Commutation Mechanism and Harmonic Suppression of Offshore Wind Farm Integration With DRU-VSC Hybrid Transmission System.”*** Proceedings of the CSEE, under review.
 
 <!-- ## <small><center>On the way &#128548;</center><br/></small> -->
 
