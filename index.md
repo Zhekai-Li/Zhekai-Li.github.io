@@ -127,7 +127,8 @@ I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell
 <blockquote>
   <table style="width: 100%; border-collapse: collapse;" cellpadding="0" cellspacing="0">
     <tr>
-      <td style="border: none; text-align: left;">Studying for a master's degree;&nbsp;&nbsp;<em>GPA: 3.94 / 4.00 (2/114)</em></td>
+      <!-- <td style="border: none; text-align: left;">Studying for a master's degree;&nbsp;&nbsp;<em>GPA: 3.94 / 4.00 (2/114)</em></td> -->
+      <td style="border: none; text-align: left;">Studying for a master's degree</td>
       <td style="border: none; text-align: right;"><em>Sept. 2022 ~ Jan. 2025</em></td>
     </tr>
   </table>
@@ -138,7 +139,8 @@ I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell
 <blockquote>
   <table style="width: 100%; border-collapse: collapse;" cellpadding="0" cellspacing="0">
     <tr>
-      <td style="border: none; text-align: left;">Bachelor's degree;&nbsp;&nbsp;<em>GPA: 3.94 / 4.00 (Top 1%)</em></td>
+      <!-- <td style="border: none; text-align: left;">Bachelor's degree;&nbsp;&nbsp;<em>GPA: 3.94 / 4.00 (Top 1%)</em></td> -->
+      <td style="border: none; text-align: left;">Bachelor's degree</td>
       <td style="border: none; text-align: right;"><em>Sept. 2018 ~ June 2022</em></td>
     </tr>
   </table>
