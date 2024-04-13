@@ -110,7 +110,7 @@ body {
 
 ------
 <!--<br/>&nbsp;-->
-&emsp;&nbsp;&nbsp;I am now a second-year master student majoring in **Electrical Engineering (EE)** at Shanghai Jiao Tong University and I am preparing to pursue a **Ph.D. in Operation Research or Operation Management (OR/OM)** at a U.S. university starting in **the Fall of 2025**.
+&emsp;&nbsp;&nbsp;I am now a second-year master student majoring in **Electrical Engineering (EE)** at Shanghai Jiao Tong University and I am preparing to pursue a **Ph.D. in Operations Research or Operations Management (OR/OM)** at a U.S. university starting in **the Fall of 2025**.
 
 I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell.edu/faculty-research/faculty/rz383/) from *Cornell SC Johnson College of Business* and [Prof. Cheng Hua](https://www.acem.sjtu.edu.cn/faculty/huacheng.html) from *Antai College of Economics and Management at Shanghai Jiao Tong University*.
 
@@ -162,7 +162,7 @@ My current research is centered on **Multi-armed Bandit (MAB)** and **online lea
 <div align = right>&#127796;&nbsp;Remote from July 2023 and offline from July 2024</div>
 </div>
 
-- **<font color='#8B0000'>[News]</font> I am looking for a Research Assistant Position in Operation Research (OR)/Industrial Engineering (IE)/Operation Management (OM). Please feel free to** <a href= "mailto:zhekai_li@outlook.com"> **<u>contact me</u>** </a> **at any time!**
+- **<font color='#8B0000'>[News]</font> I am looking for a Research Assistant Position in Operations Research (OR)/Industrial Engineering (IE)/Operations Management (OM). Please feel free to** <a href= "mailto:zhekai_li@outlook.com"> **<u>contact me</u>** </a> **at any time!**
 <div align = right>&#127796;&nbsp;Remote from July 2023 and offline from July 2024</div>
 
 
