@@ -33,18 +33,18 @@ body {
 <!-- > [[Chinese Version]](https://lizhekai.com/TEST/)-->
 <!-- > Lastest Update: 21th May, 2023&nbsp;&nbsp;&nbsp;[[Chinese Version]](https://lizhekai.com/publications-zh/) -->
 
-> Lastest Update: 08th Mar., 2024
+> Lastest Update: 12nd May., 2024
 
 ## <font face="Verdana">Journal Paper</font><br/>
 
-- **<u>Z. Li</u>**, H. Yu, Z. Fang, X. Cai, R. Yang, ***“Research on Commutation Mechanism and Harmonic Suppression of Offshore Wind Farm Integration With DRU-VSC Hybrid Transmission System.”*** Proceedings of the CSEE, under review.
+- **<u>Z. Li</u>**, H. Yu, Z. Fang, X. Cai, R. Yang, [***“Research on Commutation Mechanism and Harmonic Suppression of Offshore Wind Farm Integration With DRU-VSC Hybrid Transmission System.”***](https://lizhekai.com/mypaper/CSEE_ResearchonCommutationMechanismandHarmonicSuppressionofOffshoreWindFarmIntegrationWithDRU-VSCHybridTransmissionSystem.pdf) Proceedings of the CSEE, accepted. *(Ranked first in power and energy engineering journals, and second in citations among all Chinese journals.)*
 <br/>&nbsp;
 <!-- ## <small><center>On the way &#128548;</center><br/></small> -->
 
 
 ## <font face="Verdana">Conference Paper</font><br/>
 
-- **<u>Z. Li</u>**, K. Han, X. Cai, R. Yang, H. Yu, P. Xia, L. Liu, [***“Frequency-Reactive Power Optimization Strategy of Grid-forming Offshore Wind Farm Using DRU-HVDC Transmission,”***](https://lizhekai.com/mypaper/EI223_Frequency-ReactivePowerOptimizationStrategyofGrid-formingOffshoreWindFarmUsingDRU-HVDCTransmission.pdf) accepted by the 2023 IEEE Conference on Energy Internet and Energy System Integration (EI2).
+- **<u>Z. Li</u>**, K. Han, X. Cai, R. Yang, H. Yu, P. Xia, L. Liu, [***“Frequency-Reactive Power Optimization Strategy of Grid-forming Offshore Wind Farm Using DRU-HVDC Transmission,”***](https://lizhekai.com/mypaper/EI223_Frequency-ReactivePowerOptimizationStrategyofGrid-formingOffshoreWindFarmUsingDRU-HVDCTransmission.pdf) in 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2), Hangzhou, China: IEEE, Dec. 2023, pp. 1193–1199. doi: 10.1109/EI259745.2023.10512674.
 
 - **<u>Z. Li</u>**, L. Liang, R. Yang, and X. Cai, [***“The Virtual Admittance Control of Sending End Converter for Offshore Wind Farm Integration,”***](https://lizhekai.com/mypaper/PEDG23_ResearchonVirtualAdmittanceControlStrategy.pdf) in 2023 IEEE 14th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), Jun. 2023, pp. 133–136. doi: 10.1109/PEDG56097.2023.10215304.
 

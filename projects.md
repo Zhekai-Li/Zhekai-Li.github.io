@@ -35,7 +35,7 @@ body {
 
 ## <font face="Verdana">Academic Projects</font><br/><br/>
 
-> [Pure Exploration in Linear Bandit for Drug Discover -- 2023 -- **Working in Progress**]()
+> [Exploring Drug Candidates: All_\varepsilon-Best Arms in Linear Bandits -- 2023 -- **Working in Progress**]()
 <!-- > ### ------------------ -->
 <center>
 <!--<img src="/images/Projects/xxx.jpg">-->
