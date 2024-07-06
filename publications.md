@@ -33,11 +33,15 @@ body {
 <!-- > [[Chinese Version]](https://lizhekai.com/TEST/)-->
 <!-- > Lastest Update: 21th May, 2023&nbsp;&nbsp;&nbsp;[[Chinese Version]](https://lizhekai.com/publications-zh/) -->
 
-> Lastest Update: 12nd May., 2024
+> Lastest Update: 6nd July, 2024
+
+## <font face="Verdana">Working Paper</font><br/><br/>
+---
+<br/>&nbsp;
 
 ## <font face="Verdana">Journal Paper</font><br/>
 
-- **<u>Z. Li</u>**, H. Yu, Z. Fang, X. Cai, R. Yang, [***“Research on Commutation Mechanism and Harmonic Suppression of Offshore Wind Farm Integration With DRU-VSC Hybrid Transmission System.”***](https://lizhekai.com/mypaper/CSEE_ResearchonCommutationMechanismandHarmonicSuppressionofOffshoreWindFarmIntegrationWithDRU-VSCHybridTransmissionSystem.pdf) Proceedings of the CSEE, accepted. *(Ranked first in power and energy engineering journals, and second in citations among all Chinese journals.)*
+- **<u>Z. Li</u>**, H. Yu, Z. Fang, X. Cai, R. Yang, [***“Research on Commutation Mechanism and Harmonic Suppression of Offshore Wind Farm Integration With DRU-VSC Hybrid Transmission System,”***](https://lizhekai.com/mypaper/CSEE_ResearchonCommutationMechanismandHarmonicSuppressionofOffshoreWindFarmIntegrationWithDRU-VSCHybridTransmissionSystem.pdf) Proceedings of the CSEE, pp. 1–16, doi: 10.13334/j.0258-8013.pcsee.240697. *(Ranked first in power and energy engineering journals, and second in citations among all Chinese journals)*
 <br/>&nbsp;
 <!-- ## <small><center>On the way &#128548;</center><br/></small> -->
 
@@ -62,6 +66,6 @@ body {
 
 <br/>
 
-## <font face="Verdana">Working Paper</font><br/><br/>
+
 
 ---
