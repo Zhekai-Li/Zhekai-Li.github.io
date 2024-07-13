@@ -171,7 +171,7 @@ My current research is centered on **Multi-armed Bandit (MAB)** and **online lea
 
 - **July 2024：**Our paper [***Research on Commutation Mechanism and Harmonic Suppression of Offshore Wind Farm Integration With DRU-VSC Hybrid Transmission System***](xxx) has been accepted by the Proceedings of the CSEE (*Ranked first in power and energy engineering journals, and second in citations among all Chinese journals*).
 
-- **June 2024：**Our paper [***Exploring Drug Candidates: All ε-Best Arms Identification in Linear Bandits***](xxx) has been selected as the finalist for the Best Paper Competition at 2024 ICQSR Conference. Here is our [***Slide***](https://lizhekai.com/poster_and_oral/IEEE_EI2_2023-Poster.pdf), see you in Lake Como and Milan!
+- **June 2024：**Our paper [***Exploring Drug Candidates: All ε-Best Arms Identification in Linear Bandits***](xxx) has been selected as the finalist for the Best Paper Competition at 2024 ICQSR Conference. Here is our [***Slide***](https://lizhekai.com/poster_and_oral/xxx), see you in Lake Como and Milan!
 
 - **Dec. 2023：**Our conference paper [***Frequency-Reactive Power Optimization Strategy of Grid-forming Offshore Wind Farm Using DRU-HVDC Transmission***](https://lizhekai.com/mypaper/EI223_Frequency-ReactivePowerOptimizationStrategyofGrid-formingOffshoreWindFarmUsingDRU-HVDCTransmission.pdf) is accepted to IEEE EI^2 2023. Here is our [***poster***](https://lizhekai.com/poster_and_oral/IEEE_EI2_2023-Poster.pdf), see you in Hangzhou!
 
