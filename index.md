@@ -106,7 +106,7 @@ body {
 </html>
 -->
 
-> Here is **Zhekai Li <font face="NSimSun">(李哲锴 in Chinese)</font>  .<br/>**
+> Here is  **Zhekai Li <font face="NSimSun" style="font-style:normal;">(李哲锴 in Chinese)</font>  .<br/>**
 
 ------
 <!--<br/>&nbsp;-->
