@@ -106,7 +106,7 @@ body {
 </html>
 -->
 
-> Here is **Zhekai Li <font face="NSimSun">李哲锴</font>  .<br/>**
+> Here is **Zhekai Li <font face="NSimSun">(李哲锴 in Chinese)</font>  .<br/>**
 
 ------
 <!--<br/>&nbsp;-->
@@ -154,7 +154,7 @@ I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell
 My current research is centered on **Multi-armed Bandit (MAB)** and **Adaptive Sequential Decision-Making**, with a particular focus on their integration into various **healthcare-related challenges**. I am presently working on **AI Drug Discovery (AI-DD)**.
  <!-- and **ambulance dispatch** -->
 
- **"Ensuring healthy lives and promoting the well-being at all ages is essential to sustainable development."** The fusion of **online learning** and **healthcare problems** has received extensive attention under the urgent need for more efficient and effective approaches to disease prevention, life extension, and population health improvement, as well as treating disease, bringing revolutionary changes to the development pattern of the healthcare system all around the world and influencing everyone's life. I am deeply committed to this meaningful cause, dedicated to bring even the slightest well-being to the world.<br/>
+ **"Ensuring healthy lives and promoting the well-being at all ages is essential to sustainable development."** The fusion of **adaptive sequential decision-learning** and **healthcare problems** has received extensive attention under the urgent need for more efficient and effective approaches to disease prevention, life extension, and population health improvement, as well as treating disease, bringing revolutionary changes to the development pattern of the healthcare system all around the world and influencing everyone's life. I am deeply committed to this meaningful cause, dedicated to bring even the slightest well-being to the world.<br/>
 
 ## <font color='#8B0000'><font face="Verdana">News and Updates</font><br/> 
 
@@ -163,8 +163,8 @@ My current research is centered on **Multi-armed Bandit (MAB)** and **Adaptive S
 <div align = right>&#127796;&nbsp;Remote from July 2023 and offline from July 2024</div>
 </div>
 
-- **<font color='#8B0000'>[News]</font> I am looking for a Research Assistant Position in Operations Research (OR)/Industrial Engineering (IE)/Operations Management (OM). Please feel free to** <a href= "mailto:zhekai_li@outlook.com"> **<u>contact me</u>** </a> **at any time!**
-<div align = right>&#127796;&nbsp;Remote from July 2023 and offline from July 2024</div>
+- **<font color='#8B0000'>[News]</font> I am actively looking for a Ph.D. Position in Operations Research (OR)/Operations Management (OM). Please feel free to** <a href= "mailto:zhekai_li@outlook.com"> **<u>contact me</u>** </a> **at any time!**
+<div align = right>&#127796;&nbsp;Expected to start in the fall of 2025</div>
 
 
 
