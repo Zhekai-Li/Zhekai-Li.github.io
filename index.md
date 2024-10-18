@@ -171,13 +171,13 @@ My current research is centered on **Multi-armed Bandit (MAB)** and **Adaptive S
 ------------------------------------------------------------------
 
 
-<span style="color:#8B0000;">- **Oct. 2024：**I will give an invited talk on the INFORMS Annual Meeting about our work [***Exploring Drug Candidates: All ε-Best Arms Identification in Linear Bandits***](xxx). Welcome to the session TD48 on ***Adaptive Experimental Design in Operations*** (Summit 440, October 22, 2:15 PM - 3:30 PM) chaired by Chonghuan Wang. See you in Seattle! </span>
+- <span style="color:#8B0000;"> **Oct. 2024：**I will give an invited talk on the INFORMS Annual Meeting about our work [***Exploring Drug Candidates: All ε-Best Arms Identification in Linear Bandits***](xxx). Welcome to the session TD48 on ***Adaptive Experimental Design in Operations*** (Summit 440, October 22, 2:15 PM - 3:30 PM) chaired by Chonghuan Wang. See you in Seattle! </span>
 
 - **July 2024：**Our paper [***Research on Commutation Mechanism and Harmonic Suppression of Offshore Wind Farm Integration With DRU-VSC Hybrid Transmission System***](xxx) has been accepted by the Proceedings of the CSEE (*Ranked first in power and energy engineering journals, and second in citations among all Chinese journals*).
 
 <!-- - **June 2024：**Our paper [***Exploring Drug Candidates: All ε-Best Arms Identification in Linear Bandits***](xxx) has been selected as the finalist for the Best Paper Competition at 2024 ICQSR Conference. Here is our [***Slide***](https://lizhekai.com/poster_and_oral/xxx), see you in Lake Como and Milan! -->
 
-<span style="color:#8B0000;">- **June 2024：**Our paper [***Exploring Drug Candidates: All ε-Best Arms Identification in Linear Bandits***](xxx) has been selected as the finalist for the Best Paper Competition at 2024 ICQSR Conference. Here is our [***Slide***](https://lizhekai.com/poster_and_oral/xxx), see you in Lake Como and Milan!</span>
+- <span style="color:#8B0000;"> **June 2024：**Our paper [***Exploring Drug Candidates: All ε-Best Arms Identification in Linear Bandits***](xxx) has been selected as the finalist for the Best Paper Competition at 2024 ICQSR Conference. Here is our [***Slide***](https://lizhekai.com/poster_and_oral/xxx), see you in Lake Como and Milan!</span>
 
 
 - **Dec. 2023：**Our conference paper [***Frequency-Reactive Power Optimization Strategy of Grid-forming Offshore Wind Farm Using DRU-HVDC Transmission***](https://lizhekai.com/mypaper/EI223_Frequency-ReactivePowerOptimizationStrategyofGrid-formingOffshoreWindFarmUsingDRU-HVDCTransmission.pdf) is accepted to IEEE EI^2 2023. Here is our [***poster***](https://lizhekai.com/poster_and_oral/IEEE_EI2_2023-Poster.pdf), see you in Hangzhou!
