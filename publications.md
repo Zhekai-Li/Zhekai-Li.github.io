@@ -33,7 +33,7 @@ body {
 <!-- > [[Chinese Version]](https://lizhekai.com/TEST/)-->
 <!-- > Lastest Update: 21th May, 2023&nbsp;&nbsp;&nbsp;[[Chinese Version]](https://lizhekai.com/publications-zh/) -->
 
-> Lastest Update: 26nd August, 2024
+> Lastest Update: 26th August, 2024
 
 ## <font face="Verdana">Working Paper</font><br/><br/>
 - **<u>Zhekai Li</u>**, Tianyi Ma, Cheng Hua, Ruihao Zhu, [***Exploring Drug Candidates: All <i>&#949;</i>-Best Arms Identification in Linear Bandits***](xxx).
