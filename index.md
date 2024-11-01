@@ -128,8 +128,8 @@ I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell
   <table style="width: 100%; border-collapse: collapse;" cellpadding="0" cellspacing="0">
     <tr>
       <!-- <td style="border: none; text-align: left;">Studying for a master's degree;&nbsp;&nbsp;<em>GPA: 3.94 / 4.00 (2/114)</em></td> -->
-      <td style="border: none; text-align: left;">Studying for a master's degree</td>
-      <td style="border: none; text-align: right;"><em>Sept. 2022 ~ Jan. 2025</em></td>
+      <td style="border: none; text-align: left;">M.S. in Electrical Engineering</td>
+      <td style="border: none; text-align: right;"><em>Sept. 2022 ~ Mar. 2025</em></td>
     </tr>
   </table>
 </blockquote>
@@ -140,7 +140,7 @@ I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell
   <table style="width: 100%; border-collapse: collapse;" cellpadding="0" cellspacing="0">
     <tr>
       <!-- <td style="border: none; text-align: left;">Bachelor's degree;&nbsp;&nbsp;<em>GPA: 3.94 / 4.00 (Top 1%)</em></td> -->
-      <td style="border: none; text-align: left;">Bachelor's degree</td>
+      <td style="border: none; text-align: left;">B.S. in Electrical Engineering</td>
       <td style="border: none; text-align: right;"><em>Sept. 2018 ~ June 2022</em></td>
     </tr>
   </table>
@@ -151,7 +151,7 @@ I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell
  <!--&emsp;&nbsp;&nbsp;My current research focuses on the topology, control, converter modeling, and stability analysis of the MMC-based HVDC system with wind farm integration. I am presently working on the **Grid Forming Converter** and its applications in the **VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration**. 
  The integration of **Renewable Energy** has received extensive attention under the global trend of environmental protection as well as low carbonization, bringing revolutionary changes to the development pattern of the whole world's electric industry and influencing everyone's life.  I wish to devote my talent to this meaningful cause and bring well-being to society.<br/>&nbsp;-->
 
-My current research is centered on **Multi-armed Bandit (MAB)** and **Adaptive Sequential Decision-Making**, with a particular focus on their integration into various **healthcare-related challenges**. I am presently working on **AI Drug Discovery (AI-DD)**.
+My current research is centered on **Multi-armed Bandits (MABs)** and **Adaptive Sequential Decision-Making**, with a particular focus on their integration into various **healthcare-related challenges**. I am presently working on **AI Drug Discovery (AI-DD)**.
  <!-- and **ambulance dispatch** -->
 
  **"Ensuring healthy lives and promoting the well-being at all ages is essential to sustainable development."** The fusion of **adaptive sequential decision-learning** and **healthcare problems** has received extensive attention under the urgent need for more efficient and effective approaches to disease prevention, life extension, and population health improvement, as well as treating disease, bringing revolutionary changes to the development pattern of the healthcare system all around the world and influencing everyone's life. I am deeply committed to this meaningful cause, dedicated to bring even the slightest well-being to the world.<br/>
