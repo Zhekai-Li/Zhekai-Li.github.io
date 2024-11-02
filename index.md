@@ -179,12 +179,12 @@ My current research is centered on **Multi-armed Bandits (MABs)** and **Adaptive
 
 - <span style="color:#8B0000;"> **June 2024：**Our paper [***Exploring Drug Candidates: All ε-Best Arms Identification in Linear Bandits***](xxx) has been selected as the finalist for the Best Paper Competition at 2024 ICQSR Conference. Here is our [***Slide***](https://lizhekai.com/poster_and_oral/xxx), see you in Lake Como and Milan!</span>
 
-
 - **Dec. 2023：**Our conference paper [***Frequency-Reactive Power Optimization Strategy of Grid-forming Offshore Wind Farm Using DRU-HVDC Transmission***](https://lizhekai.com/mypaper/EI223_Frequency-ReactivePowerOptimizationStrategyofGrid-formingOffshoreWindFarmUsingDRU-HVDCTransmission.pdf) is accepted to IEEE EI^2 2023. Here is our [***poster***](https://lizhekai.com/poster_and_oral/IEEE_EI2_2023-Poster.pdf), see you in Hangzhou!
 
 - **May 2023：**Our conference paper [***The Virtual Admittance Control of Sending End Converter for Offshore Wind Farm Integration***](https://lizhekai.com/mypaper/PEDG23_ResearchonVirtualAdmittanceControlStrategy.pdf) is accepted to IEEE PEDG 2023. Here is our [***poster***](https://lizhekai.com/poster_and_oral/IEEE_PEDG_2023-Poster.pdf), see you in Shanghai! 
 
-- **Oct. 2021：**Honored to be awarded the [**National Scholarship (2020 ~ 2021)** again](https://mp.weixin.qq.com/s/QbRVy8weyYX8UtGLIQvx0w)!
+<!-- - **Oct. 2021：**Honored to be awarded the [**National Scholarship (2020 ~ 2021)** again](https://mp.weixin.qq.com/s/QbRVy8weyYX8UtGLIQvx0w)! -->
+- **Oct. 2021：**Honored to be awarded the **National Scholarship (2020 ~ 2021)** again!
 
 - **Oct. 2021：**Congratulations! Our team won the **First Prize** in [National University Students Electrical Math Modeling Competition (13th)](https://lizhekai.com/file/2401_QuestionA_CSEE_Modeling.pdf).
 
@@ -192,10 +192,10 @@ My current research is centered on **Multi-armed Bandits (MABs)** and **Adaptive
 
 - **June 2021：**Our conference paper [***Three-phase Motor Drive Topology with the Fault-tolerant Capability of Open-circuit on the Multiplexing Bridge***](https://lizhekai.com/mypaper/ECCE21_Three-phaseMotorDriveTopologywiththeFault-tolerantCapability.pdf) is accepted to ECCE 2021, a good start for my scientific exploration!
 
-- **Oct. 2019：**Honored to be awarded the [**National Scholarship (2018 ~ 2019)**](https://mp.weixin.qq.com/s/3hfo7MoAAi7Xte2C3pTVIA)!
+<!-- - **Oct. 2019：**Honored to be awarded the [**National Scholarship (2018 ~ 2019)**](https://mp.weixin.qq.com/s/3hfo7MoAAi7Xte2C3pTVIA)! -->
+- **Oct. 2019：**Honored to be awarded the **National Scholarship (2018 ~ 2019)**!
 
 - **Dec. 2019：** [The International Evaluation Volunteer Activity of HUST](https://mp.weixin.qq.com/s/KX8FzfcE5yZikgJx7DlblQ) came to a successful conclusion and it is a great honor to have close communication with [**Professor Philip T.Krein**](https://ece.illinois.edu/about/directory/faculty/krein) from the University of Illinois at Urbana-Champaign, [**Professor Georg Mueller**](https://www.healthtech.kit.edu/deutsch/112_247.php) from Karlsruhe 
 Institute of Technology and [**Professor Katsumi Ida**](https://unit.nifs.ac.jp/research/archives/staff/ida-katsumi_eng?lang=eng&unit=unit03&paper=IdaKatsumi) from National Institute for Fusion Science!
 
-- **July 2019：**Our field trip to Gansu Province ended, the investigation of **Renewable** **Energy** **Generation** **in** 
-**northwest** **China** gave us an in-depth understanding of the development of Renewable Energy. What a exhausting but meaningful journey!
+- **July 2019：**Our field trip to Gansu Province ended, the investigation of Renewable Energy Generation in northwest China gave us an in-depth understanding of the development of Renewable Energy. What a exhausting but meaningful journey!
