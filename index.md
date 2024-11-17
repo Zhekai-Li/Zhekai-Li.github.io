@@ -146,7 +146,7 @@ I am extremely fortunate to be advised by [Prof. Ruihao Zhu](https://sha.cornell
   </table>
 </blockquote>
 
-## <font face="Verdana">Research Field</font><br/><br/>
+## <font face="Verdana">Research Interests</font><br/><br/>
 
  <!--&emsp;&nbsp;&nbsp;My current research focuses on the topology, control, converter modeling, and stability analysis of the MMC-based HVDC system with wind farm integration. I am presently working on the **Grid Forming Converter** and its applications in the **VSC-HVDC Based Segmented System with Large Capacity Renewable Energy Integration**. 
  The integration of **Renewable Energy** has received extensive attention under the global trend of environmental protection as well as low carbonization, bringing revolutionary changes to the development pattern of the whole world's electric industry and influencing everyone's life.  I wish to devote my talent to this meaningful cause and bring well-being to society.<br/>&nbsp;-->
@@ -155,6 +155,8 @@ My current research is centered on **Multi-armed Bandits (MABs)** and **Adaptive
  <!-- and **ambulance dispatch** -->
 
  **"Ensuring healthy lives and promoting the well-being at all ages is essential to sustainable development."** The fusion of **adaptive sequential decision-learning** and **healthcare problems** has received extensive attention under the urgent need for more efficient and effective approaches to disease prevention, life extension, and population health improvement, as well as treating disease, bringing revolutionary changes to the development pattern of the healthcare system all around the world and influencing everyone's life. I am deeply committed to this meaningful cause, dedicated to bring even the slightest well-being to the world.<br/>
+
+ I am equally passionate about **the low-carbon economy research in sustainable operations**, with a particular focus on coordinating renewable with traditional energy sources, and advancing energy-efficient, cost-effective production technologies. With past research experience concentrated on the technical enhancement of physical systems, I am also interested in exploring **the business side of engineering challenges**, especially how modeling and optimization techniques can be leveraged to make resource-constrained decisions that maximize overall welfare.
 
 ## <font color='#8B0000'><font face="Verdana">News and Updates</font><br/> 
 
