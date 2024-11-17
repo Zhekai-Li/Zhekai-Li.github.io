@@ -172,8 +172,9 @@ My current research is centered on **Multi-armed Bandits (MABs)** and **Adaptive
 
 ------------------------------------------------------------------
 
+- <span style="color:#8B0000;"> **Dec. 2024：**I will give an invited talk at NYU Stern MOILS Seminar about our work. See you in New York! </span>
 
-- <span style="color:#8B0000;"> **Oct. 2024：**I will give an invited talk on the INFORMS Annual Meeting about our work [***Exploring Drug Candidates: All ε-Best Arms Identification in Linear Bandits***](xxx). Welcome to the session TD48 on ***Adaptive Experimental Design in Operations*** (Summit 440, October 22, 2:15 PM - 3:30 PM) chaired by Chonghuan Wang. See you in Seattle! </span>
+- <span style="color:#8B0000;"> **Oct. 2024：**I will give an invited talk at the INFORMS Annual Meeting about our work [***Exploring Drug Candidates: All ε-Best Arms Identification in Linear Bandits***](xxx). Welcome to the session TD48 on ***Adaptive Experimental Design in Operations*** (Summit 440, October 22, 2:15 PM - 3:30 PM) chaired by Chonghuan Wang and David Simchi-Levi. See you in Seattle! </span>
 
 - **July 2024：**Our paper [***Research on Commutation Mechanism and Harmonic Suppression of Offshore Wind Farm Integration With DRU-VSC Hybrid Transmission System***](xxx) has been accepted by the Proceedings of the CSEE (*Ranked first in power and energy engineering journals, and second in citations among all Chinese journals*).
 
